@@ -1,0 +1,713 @@
+[
+  {
+    "drop": "The world’s oldest university was in Timbuktu, 989 AD. 📚\n\nDid you know?",
+    "hook": "Tap to see how books outlasted empires…",
+    "expand": "Picture this — a sea of sand, and in the middle of it, a university. In 989 AD, Mali’s Sankore drew 25,000 students to study the stars, math, and law. Here’s the wild part — 700,000 handwritten manuscripts still hide in family homes, wrapped in cloth and dust. Salt and gold paid for wisdom that outlived kingdoms.",
+    "cta": "Would you study where camels roam? →",
+    "share_text": "Timbuktu Uni: 989 AD, 700K hidden books. 📚\nTap to see…"
+  },
+  {
+    "drop": "Ethiopia gave the world coffee — and never got colonized. ☕\n\nDid you know?",
+    "hook": "Tap to see how dancing goats started a revolution…",
+    "expand": "Legend says a herder named Kaldi noticed his goats prancing after eating red cherries. Monks brewed them — and boom, coffee was born. Fast forward: Italy tried to invade in 1935. Emperor Haile Selassie fought back, and Ethiopia stayed free. Same script. Same calendar. Same coffee. The taste of defiance.",
+    "cta": "Would you fight for your morning brew? →",
+    "share_text": "Ethiopia: coffee + freedom. ☕\nTap to see…"
+  },
+  {
+    "drop": "Great Zimbabwe’s stone walls rose — without a drop of mortar. 🏰\n\nDid you know?",
+    "hook": "Tap to see how 18,000 tons of granite balanced perfectly…",
+    "expand": "Imagine building a city so strong it defied gravity. Between the 11th and 15th centuries, the Shona stacked 18,000 tons of granite by hand — no cement, just skill. 15,000 people lived inside; gold flowed east to China. Then Europeans saw the ruins and said, ‘Aliens built this.’ Classic colonial disbelief.",
+    "cta": "Would you stack 18K tons by hand? →",
+    "share_text": "Great Zimbabwe: no mortar, no problem. 🏰\nTap to see…"
+  },
+  {
+    "drop": "Nigeria’s Nok people worked iron 2,500 years ago. ⚒️\n\nDid you know?",
+    "hook": "Tap to see how art met metallurgy in 1,000 BC…",
+    "expand": "Long before Europe lit its first forge, the Nok were already smelting iron. Picture sculptors shaping clay heads with triangular eyes — and blacksmiths forging tools beside them. That’s 500 years ahead of the curve. One statue even sold for $2.7 million in 2010. Ancient innovation, timeless value.",
+    "cta": "Would you forge in 1,000 BC? →",
+    "share_text": "Nok: iron + art, 2,500 years ago. ⚒️\nTap to see…"
+  },
+  {
+    "drop": "Egypt’s first pyramid still stands — 4,700 years later. 🏯\n\nDid you know?",
+    "hook": "Tap to see the 6-step wonder that started it all…",
+    "expand": "Before the Great Pyramids, there was Djoser’s Step Pyramid — 62 meters of limestone genius built in 2670 BC by Imhotep, the world’s first architect. Here’s the fun detail: workers drank 4 liters of beer daily while hauling 2.3 million blocks. And it’s still standing. Ancient engineering meets happy hour.",
+    "cta": "Would you stack stone for beer? →",
+    "share_text": "Djoser: 4,700 years tall. 🏯\nTap to see…"
+  },
+  {
+    "drop": "The Swahili built coral cities by the sea — 800 years ago. 🪸\n\nDid you know?",
+    "hook": "Tap to see the coral palaces that minted gold…",
+    "expand": "Picture waves lapping at coral walls in 1200 AD — that’s Kilwa Kisiwani, a Swahili island city where traders minted gold coins and spoke Arabic, Persian, and Bantu. Ibn Battuta called it ‘one of the most beautiful towns.’ Then Portugal showed up in 1505 and burned it down. The audacity.",
+    "cta": "Would you live in coral palaces? →",
+    "share_text": "Swahili coast: gold and coral. 🪸\nTap to see…"
+  },
+  {
+    "drop": "Benin’s bronze heads survived the empire that made them. 🗿\n\nDid you know?",
+    "hook": "Tap to see how kings became metal legends…",
+    "expand": "In the 1400s, Edo craftsmen cast bronze so detailed it glowed. One royal head took 1,000 man-hours. Then Britain invaded in 1897, looted 4,000 of them, and shipped them off. Over a century later, Germany returned 22. The thing is — art has a memory. And it’s finally finding its way home.",
+    "cta": "Would you cast a king’s face? →",
+    "share_text": "Benin bronzes: stolen, returning. 🗿\nTap to see…"
+  },
+  {
+    "drop": "Ashanti gold was so abundant, it rivaled Europe’s. 🪙\n\nDid you know?",
+    "hook": "Tap to see how a golden stool became sacred…",
+    "expand": "In 1701, a golden stool supposedly descended from the sky — 8,000 ounces of pure gold, said to hold the Ashanti soul. For 400 years, their mines produced 75% of the world’s gold. Then Britain came in 1874 and — you guessed it — stole it. Classic colonialism meets cosmic royalty.",
+    "cta": "Would you sit on 8K ounces of power? →",
+    "share_text": "Ashanti: gold, spirit, resistance. 🪙\nTap to see…"
+  },
+  {
+    "drop": "The Dogon mapped a star invisible to the eye — 700 years early. ⭐\n\nDid you know?",
+    "hook": "Tap to see the secret star dance of Mali…",
+    "expand": "Back in 1300 AD, the Dogon already knew Sirius had a tiny companion star — Sirius B — which you can’t see without a telescope. French scientists confirmed it only in 1970. Wait, what? For centuries, Dogon priests had celebrated its 50-year orbit with rituals and masks. Science, meet ancient wisdom.",
+    "cta": "Would you dance for the stars? →",
+    "share_text": "Dogon: star knowledge before telescopes. ⭐\nTap to see…"
+  },
+  {
+    "drop": "The Yoruba invented binary code — 4,000 years before computers. 🔢\n\nDid you know?",
+    "hook": "Tap to see how math met divination…",
+    "expand": "Ifá priests used palm nuts to cast 256 possible patterns — the same logic as binary code. Each combination told a story, guided choices, predicted futures. Picture this: ancient wisdom predicting destiny, using math that would one day run the internet. The irony is poetic.",
+    "cta": "Would you code your fate? →",
+    "share_text": "Ifá: binary before binary. 🔢\nTap to see…"
+  },
+  {
+    "drop": "The Kingdom of Aksum minted its own coins 1,700 years ago. 💰\n\nDid you know?",
+    "hook": "Tap to see how gold from Ethiopia reached Rome…",
+    "expand": "Picture this — 270 AD, a king named Endubis in what’s now Ethiopia stamps his face onto gold coins. Aksum was trading with Rome, India, even China. One of those coins was later found in India, 1,600 years later. That’s how far African influence traveled — across deserts, oceans, and centuries.",
+    "cta": "Would you mint your own empire? →",
+    "share_text": "Aksum: gold that reached Rome. 💰\nTap to see…"
+  },
+  {
+    "drop": "The Hausa built 15-story skyscrapers — out of mud. 🏬\n\nDid you know?",
+    "hook": "Tap to see how clay became architecture…",
+    "expand": "Kano’s skyline wasn’t made of steel — it was sun-baked. For 500 years, the Hausa built 15-story towers using mud, cow dung, and acacia wood. One could hold 300 people. UNESCO finally recognized it in 1999. Proof that tradition can literally touch the sky.",
+    "cta": "Would you live 15 floors up in mud? →",
+    "share_text": "Hausa towers: sky-high clay. 🏬\nTap to see…"
+  },
+  {
+    "drop": "Mansa Musa once crashed gold prices — by giving too much away. 👑\n\nDid you know?",
+    "hook": "Tap to see how one man flooded Cairo with wealth…",
+    "expand": "In 1324, the king of Mali set out on a pilgrimage to Mecca with 100 camels loaded with gold. He gave so much of it away in Cairo that gold prices stayed low for 12 years. Imagine being *that* rich — your generosity becomes an economic crisis. Every Friday, he built a mosque along the way. Royal flex.",
+    "cta": "Would you give till gold lost value? →",
+    "share_text": "Mansa Musa: the man who made gold cheap. 👑\nTap to see…"
+  },
+  {
+    "drop": "The Igbo built earth walls that stretched 400 kilometers. 🧱\n\nDid you know?",
+    "hook": "Tap to see the clay pyramids of Nsude…",
+    "expand": "In what’s now Nigeria, the Igbo sculpted ten pyramids from clay in 1935 — each 30 meters high — and surrounded them with 400 kilometers of earth walls. Built for Ala, goddess of the earth. Then, two years later, the British destroyed them. The irony? They called Africa ‘primitive.’",
+    "cta": "Would you build for your goddess? →",
+    "share_text": "Igbo walls: 400 km of devotion. 🧱\nTap to see…"
+  },
+  {
+    "drop": "The Kongo nailed copper into power. 🪞\n\nDid you know?",
+    "hook": "Tap to see statues that healed with every strike…",
+    "expand": "In the 1500s, the Kongo crafted nkisi statues — wooden figures charged with spiritual energy. Every copper nail hammered in represented a vow, a healing, a conflict resolved. Some had over a thousand nails. Then Portuguese traders saw them and said, ‘fetishes.’ Classic misunderstanding of power.",
+    "cta": "Would you hammer your prayers? →",
+    "share_text": "Kongo nkisi: power in every nail. 🪞\nTap to see…"
+  },
+  {
+    "drop": "Berber traders once crossed the Sahara in 60 days — by camel. 🐪\n\nDid you know?",
+    "hook": "Tap to see how salt once equaled gold…",
+    "expand": "Imagine 40,000 camels walking for two months straight, carrying slabs of salt from Taghaza mines to Timbuktu. In the 8th to 19th centuries, one block of salt could buy one enslaved person. Those salt routes didn’t just build trade — they built empires. The desert was their ocean.",
+    "cta": "Would you ride 60 days for salt? →",
+    "share_text": "Berber caravans: 40K camels deep. 🐪\nTap to see…"
+  },
+  {
+    "drop": "The Zulu once defeated the British Empire. ⚔️\n\nDid you know?",
+    "hook": "Tap to see how spears beat rifles at Isandlwana…",
+    "expand": "January 22, 1879 — 20,000 Zulu warriors faced 1,800 British soldiers armed with rifles. By sunset, the empire’s troops were wiped out. They even captured the Queen’s flag. An eclipse darkened the sky that day — as if history itself paused to watch. The audacity of courage.",
+    "cta": "Would you charge a rifle line? →",
+    "share_text": "Zulu victory: Isandlwana. ⚔️\nTap to see…"
+  },
+  {
+    "drop": "The Songhai Empire once had Africa’s biggest army. 🛡️\n\nDid you know?",
+    "hook": "Tap to see 200,000 warriors row to war…",
+    "expand": "Under Askia Muhammad in 1591, Songhai commanded 200,000 men — 1,000 of them in war canoes. The empire stretched from Senegal to Nigeria. Then Morocco brought gunpowder, and everything changed. The thing is, every empire meets its echo. Songhai’s was thunder.",
+    "cta": "Would you row to battle? →",
+    "share_text": "Songhai: 200K strong. 🛡️\nTap to see…"
+  },
+  {
+    "drop": "Kanem-Bornu’s warriors rode 1,000 kilometers for faith. 🐎\n\nDid you know?",
+    "hook": "Tap to see muskets in the desert…",
+    "expand": "Mai Idris Alooma ruled for 40 undefeated years from 1571. His cavalry galloped 1,000 kilometers armed with Turkish muskets. He built brick mosques across his empire — proof that piety and strategy can ride side by side.",
+    "cta": "Would you travel 1,000 km for your cause? →",
+    "share_text": "Kanem-Bornu: faith on horseback. 🐎\nTap to see…"
+  },
+  {
+    "drop": "The Luba kept their history on memory boards. 🧠\n\nDid you know?",
+    "hook": "Tap to see stories you could read by touch…",
+    "expand": "The Lukasa board — a carved wooden tablet covered in beads and shells. Luba historians could read it by feeling the patterns, each bead holding centuries of memory. One board could tell 1,000 years of kingship. History didn’t live on paper — it lived in fingertips.",
+    "cta": "Would you read with your hands? →",
+    "share_text": "Luba: memory carved in wood. 🧠\nTap to see…"
+  },
+  {
+    "drop": "The Shona carved stone birds that became a nation’s symbol. 🐦\n\nDid you know?",
+    "hook": "Tap to see how art became identity…",
+    "expand": "Back in 1350 AD, the Shona sculpted eight soapstone birds, each standing about 40 centimeters tall. When Europeans found them centuries later, Cecil Rhodes stole one for his house. Fast forward to 1981 — Zimbabwe got it back. Today, that same bird sits proudly on the national flag. History reclaimed.",
+    "cta": "Would you carve your country’s soul? →",
+    "share_text": "Shona birds: stolen, returned, symbolic. 🐦\nTap to see…"
+  },
+  {
+    "drop": "The Maasai drink blood for strength — and the cow lives. 🩸\n\nDid you know?",
+    "hook": "Tap to see how warriors stay alive in drought…",
+    "expand": "Here’s the wild part — a Maasai warrior shoots an arrow into a cow’s jugular, collects warm blood, mixes it with milk, and drinks. The cow isn’t killed. Two liters = a thousand calories. It’s strength, survival, and respect for the animal, all in one gulp. Nature doesn’t mess around.",
+    "cta": "Would you drink to survive? →",
+    "share_text": "Maasai: milk and blood. 🩸\nTap to see…"
+  },
+  {
+    "drop": "The San painted 44,000-year-old art that still speaks. 🎨\n\nDid you know?",
+    "hook": "Tap to see ancient stories on stone…",
+    "expand": "In South Africa’s Drakensberg mountains, ochre eland dance across rock walls painted 44,000 years ago. The San shamans created these scenes during trance rituals — one panel shows over 300 figures. Fast forward to today, and healers still visit the same caves. Some art doesn’t fade; it breathes.",
+    "cta": "Would you paint for the spirits? →",
+    "share_text": "San art: 44,000 years young. 🎨\nTap to see…"
+  },
+  {
+    "drop": "The Wolof griots remember 1,000 years — by heart. 🎶\n\nDid you know?",
+    "hook": "Tap to see how one voice holds a century…",
+    "expand": "In Senegal, griots aren’t just singers — they’re living archives. One griot can recite 800 verses from the Sunjata epic, carrying 1,000 years of Mali’s history. They start training at age seven. No notebooks, no scripts — just rhythm, memory, and legacy passed from mouth to ear for centuries.",
+    "cta": "Would you sing your history? →",
+    "share_text": "Griots: walking libraries. 🎶\nTap to see…"
+  },
+  {
+    "drop": "The Akan weighed gold with tiny brass seeds. ⚖️\n\nDid you know?",
+    "hook": "Tap to see how math met meaning…",
+    "expand": "The Akan used hundreds of brass weights shaped like seeds and animals to measure gold — precise to a grain. One seed equaled 0.06 grams. Each weight carried a proverb too: the Sankofa bird, looking back to learn from the past. Even money had morals back then.",
+    "cta": "Would you weigh wisdom and wealth together? →",
+    "share_text": "Akan: gold with meaning. ⚖️\nTap to see…"
+  },
+  {
+    "drop": "The Buganda built a 7 km fence — for one palace. 🏯\n\nDid you know?",
+    "hook": "Tap to see how reeds became royal walls…",
+    "expand": "In the 1880s, Kabaka Mutesa I built a palace so large it needed a 7-kilometer reed fence. Inside? 300 buildings. A fire burned it in 1890, but it was rebuilt in the 1920s. Every 10 years, locals rethatched the roofs — a kingdom literally maintained by hand and heart.",
+    "cta": "Would you fence your kingdom? →",
+    "share_text": "Buganda: 7 km of royalty. 🏯\nTap to see…"
+  },
+  {
+    "drop": "The Oromo run an 8-year marathon — for manhood. 🏃\n\nDid you know?",
+    "hook": "Tap to see Gadaa’s generations in motion…",
+    "expand": "The Oromo’s Gadaa system divides life into 8-year stages — each generation takes power, rules, then passes it on. Men must run 40 kilometers, jump bulls, and prove endurance. Women lead markets and ceremonies. It’s democracy wrapped in tradition — leadership that runs in cycles, not bloodlines.",
+    "cta": "Would you wait 8 years to lead? →",
+    "share_text": "Oromo: 8-year wisdom cycle. 🏃\nTap to see…"
+  },
+  {
+    "drop": "Fulani girls tattoo their faces blue at seven. 💙\n\nDid you know?",
+    "hook": "Tap to see beauty written in indigo…",
+    "expand": "At age seven, Fulani girls sit calmly as a razor dips in indigo and traces tribal tattoos across their cheeks. It’s beauty, identity, and belonging — a mark of heritage that stays for life. Men braid their hair with coins. In the Fulani world, art lives on the skin.",
+    "cta": "Would you wear your story on your face? →",
+    "share_text": "Fulani: blue marks of pride. 💙\nTap to see…"
+  },
+  {
+    "drop": "The Himba paint themselves red — every day. 🟥\n\nDid you know?",
+    "hook": "Tap to see how color became protection…",
+    "expand": "In Namibia’s deserts, Himba women coat their skin in otjize — a mix of red ochre, butter, and herbs. It protects against the sun, cleans the skin, and glows like armor. They rarely bathe with water. One bath a year, but daily radiance. Call it ancient skincare with purpose.",
+    "cta": "Would you trade water for ochre? →",
+    "share_text": "Himba: red and radiant. 🟥\nTap to see…"
+  },
+  {
+    "drop": "The Tuareg wear indigo that stains their skin blue. 🟦\n\nDid you know?",
+    "hook": "Tap to see the desert’s ‘blue people’…",
+    "expand": "Tuareg men in the Sahara wrap themselves in indigo-dyed cloth called tagelmust. Over time, the dye rubs off, tinting their skin deep blue. They veil their faces, not their women — a quiet rebellion against norms. Under that desert sun, blue became a badge of freedom.",
+    "cta": "Would you bleed blue for your culture? →",
+    "share_text": "Tuareg: indigo and identity. 🟦\nTap to see…"
+  },
+  {
+    "drop": "The Sahara was green 6,000 years ago. 🏜️\n\nDid you know?",
+    "hook": "Tap to see hippos in the desert…",
+    "expand": "Picture the Sahara with rivers and grass, hippos wading where dunes now rise. Rock art in Libya’s mountains shows giraffes, herders, and lakes. Then, around 4000 BC, the climate flipped in just decades. Grass vanished. Sand took over. Nature hit the switch — and never looked back.",
+    "cta": "Would you swim where dunes now stand? →",
+    "share_text": "Sahara: green turned gold. 🏜️\nTap to see…"
+  },
+  {
+    "drop": "Lake Chad has lost 95% of its water since 1963. 💧\n\nDid you know?",
+    "hook": "Tap to see how a lake vanished in one lifetime…",
+    "expand": "Once 25,000 km² wide, Lake Chad fed 40 million people across Nigeria, Chad, and Cameroon. Now it’s just 1,500 km² — a puddle of what it was. Irrigation and drought drained it dry. Fish disappeared. Farmers fought for water. Even Boko Haram rose from that desperation. When water dies, so does peace.",
+    "cta": "Would you fight for a drop? →",
+    "share_text": "Lake Chad: 95% gone. 💧\nTap to see…"
+  },
+  {
+    "drop": "The Congo rainforest now exhales more CO₂ than it absorbs. 🌳\n\nDid you know?",
+    "hook": "Tap to see the swamp that saves — or suffocates — us…",
+    "expand": "Deep in the Congo Basin lie peatlands holding 30 billion tons of carbon. But as they dry and burn, they release more CO₂ than trees can absorb. It’s the world’s largest tropical peat swamp — bigger than England — quietly deciding Earth’s future. When nature chokes, we all inhale the cost.",
+    "cta": "Would you save the swamp that breathes for you? →",
+    "share_text": "Congo: forest on the edge. 🌳\nTap to see…"
+  },
+  {
+    "drop": "Mount Kilimanjaro’s snow is disappearing — fast. ❄️\n\nDid you know?",
+    "hook": "Tap to see Hemingway’s ice melt away…",
+    "expand": "In 1912, Kilimanjaro’s glaciers covered 12 square kilometers. Today, less than two remain. That’s 85% gone — melting into history. Hemingway called them the ‘Snows of Kilimanjaro.’ By 2035, there may be none left. One million tourists climb each year to see what’s vanishing before our eyes.",
+    "cta": "Would you climb before it melts? →",
+    "share_text": "Kili: snow fading fast. ❄️\nTap to see…"
+  },
+  {
+    "drop": "The Okavango Delta floods backward — on purpose. 🌊\n\nDid you know?",
+    "hook": "Tap to see water flow the wrong way…",
+    "expand": "Rain falls in Angola, but months later, that water flows inland — not to the sea — flooding Botswana’s Kalahari Desert. The Okavango turns 15,000 km² of sand into a green oasis. Elephants swim 300 km to reach it. A river that refuses to obey gravity. Nature loves a plot twist.",
+    "cta": "Would you chase a backward flood? →",
+    "share_text": "Okavango: the river that rewrote rules. 🌊\nTap to see…"
+  },
+  {
+    "drop": "The Serengeti hosts the largest animal migration on Earth. 🦬\n\nDid you know?",
+    "hook": "Tap to see 2 million wildebeest on the move…",
+    "expand": "Every July, the Serengeti turns into a moving sea of life — two million wildebeest, zebras, and gazelles crossing rivers and plains. Crocodiles wait. 250,000 die. 300,000 calves are born. It’s chaos and rebirth in one epic loop. The circle of life isn’t just a saying — it’s an annual reality.",
+    "cta": "Would you watch the death march of life? →",
+    "share_text": "Serengeti: 2 million move. 🦬\nTap to see…"
+  },
+  {
+    "drop": "Only 1,063 mountain gorillas still live in Virunga. 🦍\n\nDid you know?",
+    "hook": "Tap to see guardians in the mist…",
+    "expand": "High in the misty Virunga volcanoes live half the world’s mountain gorillas. Dian Fossey studied them, loved them, and now rests among them. Rangers have died protecting them. Each troop — about 30 members — depends on human courage to survive. The last giants of a shrinking forest.",
+    "cta": "Would you risk your life for theirs? →",
+    "share_text": "Gorillas: 1,063 left. 🦍\nTap to see…"
+  },
+  {
+    "drop": "The Sahara sends dust to the Amazon — 8,000 km away. 🌬️\n\nDid you know?",
+    "hook": "Tap to see how one desert feeds another forest…",
+    "expand": "Every year, 27 million tons of dust rise from Chad’s Bodélé Depression and drift across the Atlantic. The phosphorus in that dust fertilizes the Amazon rainforest. One storm can darken Caribbean skies. The irony? Africa’s dry heart keeps South America’s green lungs alive.",
+    "cta": "Would you breathe dust for life? →",
+    "share_text": "Sahara dust: feeding the Amazon. 🌬️\nTap to see…"
+  },
+  {
+    "drop": "The Namib Desert has plants older than most civilizations. 🌱\n\nDid you know?",
+    "hook": "Tap to see the plant that drinks fog…",
+    "expand": "The Welwitschia mirabilis lives 1,500 years — with just two leaves that never stop growing. It survives on fog, pulling moisture from the air through tiny pores. Found only in Namibia, it’s proof that life adapts where logic says it shouldn’t. The desert’s quiet defiance.",
+    "cta": "Would you live on mist alone? →",
+    "share_text": "Welwitschia: 1,500-year survivor. 🌱\nTap to see…"
+  },
+  {
+    "drop": "The Baobab tree stores 120,000 liters of water. 🥤\n\nDid you know?",
+    "hook": "Tap to see the tree that became a bar…",
+    "expand": "In Madagascar’s Avenue of the Baobabs, these upside-down giants hold 120,000 liters inside their trunks. Elephants rip bark to drink; humans hollow them into bars and homes. Some are 1,500 years old — sheltering 40 people inside one tree. Nature’s original water tank, with flair.",
+    "cta": "Would you drink from a tree? →",
+    "share_text": "Baobab: 120K liters deep. 🥤\nTap to see…"
+  },
+  {
+    "drop": "The Ethiopian wolf is the world’s rarest wild dog. 🐺\n\nDid you know?",
+    "hook": "Tap to see life at 4,000 meters high…",
+    "expand": "Only about 500 Ethiopian wolves remain, roaming the Bale Mountains’ high plains. They hunt giant mole rats in thin air, their red fur flashing against frost. Rabies wiped out 75% of one pack in 2010 — yet they endure. The wild doesn’t give up easily.",
+    "cta": "Would you hunt at 4,000 meters? →",
+    "share_text": "Ethiopian wolf: 500 left. 🐺\nTap to see…"
+  },
+  {
+    "drop": "There’s a pink lake in Senegal that feeds flamingos. 🌸\n\nDid you know?",
+    "hook": "Tap to see water that blushes at sunrise…",
+    "expand": "Lake Retba glows pink thanks to Dunaliella algae — tiny organisms that love salt more than fish do. The water’s 40% salt, thicker than the Dead Sea. Miners stand knee-deep for seven hours, scooping crystals as flamingos dance nearby. Work and beauty in one frame — only nature could pull that off.",
+    "cta": "Would you mine in pink water? →",
+    "share_text": "Retba: pink salt & flamingos. 🌸\nTap to see…"
+  },
+  {
+    "drop": "The Drakensberg mountains hold 40,000 ancient paintings. 🎨\n\nDid you know?",
+    "hook": "Tap to see how art once called the rain…",
+    "expand": "For 4,000 years, San hunters painted eland, shamans, and trance dances across South Africa’s caves. One site alone has 3,000 figures. These weren’t just decorations — they were prayers. When it rained, they said the eland had answered. That’s art as weather magic.",
+    "cta": "Would you paint for rain? →",
+    "share_text": "Drakensberg: 40K ancient prayers. 🎨\nTap to see…"
+  },
+  {
+    "drop": "Victoria Falls is so loud, it has its own name: The Smoke that Thunders. 💦\n\nDid you know?",
+    "hook": "Tap to see a waterfall you can hear from 40 km away…",
+    "expand": "Stretching 1.7 kilometers wide and dropping 108 meters, Victoria Falls roars from the Zambezi River like an open sky faucet. Its spray rises 400 meters — rainbows shimmer 24/7. Locals call it Mosi-oa-Tunya: The Smoke that Thunders. When you see it, you don’t talk — you just feel small.",
+    "cta": "Would you stand in the mist? →",
+    "share_text": "Vic Falls: thunder and rainbow. 💦\nTap to see…"
+  },
+  {
+    "drop": "The Danakil Depression is Earth’s hottest playground. 🔥\n\nDid you know?",
+    "hook": "Tap to see lava, acid, and salt in one place…",
+    "expand": "Welcome to Ethiopia’s Danakil — where it’s 50°C by noon and the ground hisses beneath your feet. Acid pools shimmer neon yellow, salt flats stretch for miles, and miners still carve slabs by hand. It’s one of only three places with active lava lakes. Nature’s idea of a sauna — and a dare.",
+    "cta": "Would you mine in 50°C heat? →",
+    "share_text": "Danakil: Earth’s fiery edge. 🔥\nTap to see…"
+  },
+  {
+    "drop": "The Ngorongoro Crater holds 25,000 wild animals — in one bowl. 🦁\n\nDid you know?",
+    "hook": "Tap to see nature’s accidental zoo…",
+    "expand": "Imagine a 2.5-million-year-old volcano collapsing into itself and trapping 25,000 animals inside. That’s Ngorongoro — a green crater 600 meters deep and 260 km² wide. Lions, rhinos, elephants, even Maasai herders share the space. It’s not a park — it’s a paradise that never clocked out.",
+    "cta": "Would you live in a crater? →",
+    "share_text": "Ngorongoro: Africa’s Eden. 🦁\nTap to see…"
+  },
+  {
+    "drop": "Addis Ababa built Africa’s first light rail — 2,355 meters above sea level. 🚋\n\nDid you know?",
+    "hook": "Tap to see the sky train that runs on water power…",
+    "expand": "In 2015, Ethiopia launched Africa’s first modern light rail — 34 km, 39 stations, and 60,000 passengers daily. Built by China for $475 million, it runs entirely on hydropower. A train powered by rivers, gliding through mountain air — progress on rails.",
+    "cta": "Would you ride the roof of Africa? →",
+    "share_text": "Addis light rail: green & elevated. 🚋\nTap to see…"
+  },
+  {
+    "drop": "Nigeria’s Lagos-Ibadan line is Africa’s fastest train. 🚄\n\nDid you know?",
+    "hook": "Tap to see 160 km/h through chaos…",
+    "expand": "Opened in 2021, the 157-km Lagos–Ibadan railway slices through Nigeria at 160 km/h. Built with a $1.5 billion Chinese loan, it’s moved over a million passengers already. From VHS Nollywood to high-speed rail — Nigeria’s always been about movement.",
+    "cta": "Would you ride 160 km/h in Lagos traffic? →",
+    "share_text": "Lagos-Ibadan: 160 km/h hustle. 🚄\nTap to see…"
+  },
+  {
+    "drop": "Kenya’s M-Pesa app turned text messages into banks. 💸\n\nDid you know?",
+    "hook": "Tap to see how one SMS changed everything…",
+    "expand": "In 2007, Safaricom launched M-Pesa — a simple idea: send money by text. Now it has 51 million users and handles $314 billion a year — 40% of Kenya’s GDP. Villages with no banks suddenly had wallets in their pockets. The future started with a flip phone.",
+    "cta": "Would you bank by SMS? →",
+    "share_text": "M-Pesa: texting money since 2007. 💸\nTap to see…"
+  },
+  {
+    "drop": "Ghana’s Akosombo Dam powers four nations. ⚡\n\nDid you know?",
+    "hook": "Tap to see the lake that lights up West Africa…",
+    "expand": "Built in 1965, Ghana’s Akosombo Dam created Lake Volta — the world’s largest man-made lake, 8,500 km² wide. It generates over 1,000 MW for Ghana, Togo, Benin, and Burkina Faso. But it also displaced 80,000 people. Progress often comes with a price tag — and a ripple.",
+    "cta": "Would you flood 8,500 km² for light? →",
+    "share_text": "Akosombo: 4 nations powered. ⚡\nTap to see…"
+  },
+  {
+    "drop": "Ethiopia’s Grand Renaissance Dam holds 74 billion cubic meters of Nile water. 🏗️\n\nDid you know?",
+    "hook": "Tap to see how one river became a power struggle…",
+    "expand": "On the Blue Nile, Ethiopia built a $5-billion dream — the GERD. It’s Africa’s largest hydro dam, 6,450 MW strong, funded entirely by Ethiopians. But Egypt fears for its water supply. When the first turbine spun in 2022, the whole continent felt the current — of pride and politics.",
+    "cta": "Would you dam the Nile? →",
+    "share_text": "GERD: pride on the Nile. 🏗️\nTap to see…"
+  },
+  {
+    "drop": "The Rwenzori peaks shimmer with shrinking glaciers. 🏔️\n\nDid you know?",
+    "hook": "Tap to see the Mountains of the Moon melt…",
+    "expand": "On the border of Uganda and Congo, Margherita Peak rises 5,109 meters — Ptolemy once called these the ‘Mountains of the Moon.’ Since 1906, 80% of the glaciers have melted. Yet, under the moonlight, afro-alpine plants glow like frost fire. It’s beauty fighting extinction in slow motion.",
+    "cta": "Would you climb melting moonlight? →",
+    "share_text": "Rwenzori: moon mountains fading. 🏔️\nTap to see…"
+  },
+  {
+    "drop": "Morocco’s solar farm can power a million homes. ☀️\n\nDid you know?",
+    "hook": "Tap to see 3,000 hectares of pure sunlight…",
+    "expand": "In Ouarzazate, Morocco built Noor — the world’s largest concentrated solar plant. 580 MW of clean energy, mirrors heating the desert air to 393°C. It powers a million people. From movie sets to megawatts, Morocco turned sunlight into its newest export.",
+    "cta": "Would you mirror the sun? →",
+    "share_text": "Noor: 580 MW of light. ☀️\nTap to see…"
+  },
+  {
+    "drop": "The Cape Floral Kingdom grows 9,000 species in one corner of Earth. 🌺\n\nDid you know?",
+    "hook": "Tap to see flowers that bloom through fire…",
+    "expand": "On South Africa’s Table Mountain alone, 9,000 species bloom — 70% exist nowhere else. Fynbos shrubs actually *need* fire every 15 years to release seeds. Burn to bloom — the most dramatic renewal plan nature ever wrote.",
+    "cta": "Would you burn to start over? →",
+    "share_text": "Cape flora: fire-born beauty. 🌺\nTap to see…"
+  },
+  {
+    "drop": "Madagascar’s lemurs are vanishing — 90% are threatened. 🐒\n\nDid you know?",
+    "hook": "Tap to see who sings and taps for dinner…",
+    "expand": "Madagascar’s forests once echoed with the songs of 107 lemur species. Today, 103 face extinction. Ring-tailed lemurs sing ‘whoop’ calls, while aye-ayes tap on trees like sonar to find insects. 90% of their home forest is gone. When trees fall, silence follows.",
+    "cta": "Would you save a singer in the trees? →",
+    "share_text": "Lemurs: 90% endangered. 🐒\nTap to see…"
+  },
+  {
+    "drop": "Ethiopia’s highlands feed 86% of the Nile. ⛰️\n\nDid you know?",
+    "hook": "Tap to see how one lake births a river…",
+    "expand": "The Blue Nile begins in Ethiopia’s Tana Lake, spills over the Tis Abay waterfalls, and carries life north through Sudan and Egypt. Monks still swim beneath the falls for blessings. The Nile may end in Cairo, but its heartbeat is Ethiopian.",
+    "cta": "Would you swim for a blessing? →",
+    "share_text": "Ethiopia: source of the Nile. ⛰️\nTap to see…"
+  },
+  {
+    "drop": "The dodo vanished just 80 years after humans arrived. 🦤\n\nDid you know?",
+    "hook": "Tap to see a bird that trusted too much…",
+    "expand": "In 1598, Dutch sailors landed on Mauritius. By 1662, the dodo — a one-meter-tall, flightless bird — was gone. It had no predators, no fear, and no chance. The last skeleton left has only 23 bones. The dodo wasn’t dumb — it was just peaceful in a violent world.",
+    "cta": "Would you have saved one? →",
+    "share_text": "Dodo: gone in 80 years. 🦤\nTap to see…"
+  },
+  {
+    "drop": "Jonathan the tortoise has seen 190 years of history. 🐢\n\nDid you know?",
+    "hook": "Tap to meet the oldest land animal alive…",
+    "expand": "Born in 1832, Jonathan lives on St. Helena — older than the lightbulb, the telephone, and the Eiffel Tower. He’s blind and can’t smell, but still eats by hand. His friend Esmeralda made it to 180. The secret to long life? Move slowly and ignore the noise.",
+    "cta": "Would you live two centuries? →",
+    "share_text": "Jonathan: 190 years wise. 🐢\nTap to see…"
+  },
+  {
+    "drop": "The African penguin nests in poop — seriously. 🐧\n\nDid you know?",
+    "hook": "Tap to see 2,000 tuxedos on Cape Town’s beach…",
+    "expand": "At Boulders Beach, 2,000 African penguins dig burrows in guano to keep their eggs cool. Overfishing and guano mining nearly wiped them out — their population’s down 90% since 1900. Today, tourists swim beside them. Nature adapts, even in flip-flops.",
+    "cta": "Would you share a beach with penguins? →",
+    "share_text": "Boulders Beach: penguins & poop. 🐧\nTap to see…"
+  },
+  {
+    "drop": "Lake Malawi evolved 1,000 fish species from just one ancestor. 🐠\n\nDid you know?",
+    "hook": "Tap to see evolution on fast-forward…",
+    "expand": "In just two million years, one cichlid species in Lake Malawi became over a thousand. Bright blues, yellows, stripes — each adapted to a niche. It’s the fastest vertebrate evolution ever recorded. Even Darwin would’ve dropped his notebook.",
+    "cta": "Would you evolve a thousand ways? →",
+    "share_text": "Lake Malawi: evolution’s showcase. 🐠\nTap to see…"
+  },
+  {
+    "drop": "Nigeria speaks in 500 languages — and still finds a beat. 🇳🇬\n\nDid you know?",
+    "hook": "Tap to hear 250 cultures in one sentence…",
+    "expand": "From Hausa to Yoruba to Igbo to Tiv — over 500 tongues flow across Nigeria. In one Lagos market, you can hear fifty in an hour. Pidgin glues them together. Despite 7 languages already extinct, the rhythm remains — conversation as culture, language as music.",
+    "cta": "Would you speak five tongues in one day? →",
+    "share_text": "Nigeria: 250 tribes, 500 voices. 🇳🇬\nTap to see…"
+  },
+  {
+    "drop": "Lagos — 21 million people, one unstoppable city. 🏙️\n\nDid you know?",
+    "hook": "Tap to see a megacity on water…",
+    "expand": "Lagos isn’t just big — it’s alive. 21 million people squeezed into 1,171 km², where traffic crawls and dreams sprint. Makoko’s wooden homes float on lagoons, housing 100,000 souls. GDP rivals whole nations. Chaos? Yes. But it’s organized ambition.",
+    "cta": "Would you float your home for opportunity? →",
+    "share_text": "Lagos: 21M dreams afloat. 🏙️\nTap to see…"
+  },
+  {
+    "drop": "Nollywood makes over 2,500 films every year. 🎬\n\nDid you know?",
+    "hook": "Tap to see how a whole industry rose from VHS tapes…",
+    "expand": "In the ’90s, Nigeria didn’t wait for Hollywood. With a camera, a dream, and a generator, filmmakers like Kenneth Nnebue shot straight-to-VHS movies that spread like wildfire. Today, Nollywood employs over a million people and streams on Netflix. The hustle turned into heritage.",
+    "cta": "Would you film your way to fame? →",
+    "share_text": "Nollywood: lights, camera, Lagos. 🎬\nTap to see…"
+  },
+  {
+    "drop": "Afrobeats took over the world — from Lagos rooftops. 🎶\n\nDid you know?",
+    "hook": "Tap to see how one rhythm rewrote pop culture…",
+    "expand": "From Fela’s sax in the 1970s to Burna’s Grammy and Tems’ Oscars nod — Afrobeats fused Yoruba drums, hip-hop, and highlife into a global heartbeat. Lagos rooftops became studios, TikTok became radio. The world didn’t just hear Africa — it started to dance to it.",
+    "cta": "Would you move to that beat? →",
+    "share_text": "Afrobeats: from Lagos to the world. 🎶\nTap to see…"
+  },
+  {
+    "drop": "South Africa built the world’s biggest telescope array. 🔭\n\nDid you know?",
+    "hook": "Tap to see how Karoo farmers became star watchers…",
+    "expand": "In the dry plains of the Karoo, 64 giant dishes stare at the universe — the MeerKAT telescope. It can detect signals from galaxies 8 billion light years away. Farmers once herded sheep there. Now they help map black holes. Same land, different horizon.",
+    "cta": "Would you farm stars instead of sheep? →",
+    "share_text": "MeerKAT: Africa’s eyes to the cosmos. 🔭\nTap to see…"
+  },
+  {
+    "drop": "The Sahara Desert grows by 48 km every year. 🏜️\n\nDid you know?",
+    "hook": "Tap to see how Africa plans to stop the sand…",
+    "expand": "Every year, the Sahara creeps south, swallowing villages and farms. So 20 nations joined forces to plant an 8,000-kilometer wall of trees — The Great Green Wall. It’s already halfway built, restoring land and hope. Imagine fighting a desert with leaves.",
+    "cta": "Would you plant to stop a desert? →",
+    "share_text": "Great Green Wall: 8,000 km of hope. 🌳\nTap to see…"
+  },
+  {
+    "drop": "South Sudan is the world’s youngest country — born in 2011. 🇸🇸\n\nDid you know?",
+    "hook": "Tap to see what freedom costs…",
+    "expand": "After decades of war, South Sudan finally gained independence in 2011. Cheers echoed across Juba — and tears followed as civil conflict returned. But even amid struggle, the nation builds schools, songs, and stories. Independence is never the end — it’s the start of the climb.",
+    "cta": "Would you fight to be born free? →",
+    "share_text": "South Sudan: the youngest flag. 🇸🇸\nTap to see…"
+  },
+  {
+    "drop": "Egypt built an entire new capital in the desert. 🏙️\n\nDid you know?",
+    "hook": "Tap to see a city born from sand…",
+    "expand": "Forty-five kilometers from Cairo, cranes rise over Egypt’s New Administrative Capital — a $58 billion project. It has Africa’s tallest skyscraper, solar farms, and ministries relocating one by one. From pyramids to megacities — Egypt never stopped building for forever.",
+    "cta": "Would you move your capital to the desert? →",
+    "share_text": "Egypt: a new capital, same ambition. 🏙️\nTap to see…"
+  },
+  {
+    "drop": "Botswana banned trophy hunting — and saved its elephants. 🐘\n\nDid you know?",
+    "hook": "Tap to see how protection paid off…",
+    "expand": "In 2014, Botswana said no to trophy hunting. The elephant population rebounded — now over 130,000 strong, the most on Earth. The tourism boom replaced bullet money. When nature wins, so does the economy. The audacity to protect paid in full.",
+    "cta": "Would you trade trophies for life? →",
+    "share_text": "Botswana: where elephants won. 🐘\nTap to see…"
+  },
+  {
+    "drop": "Rwanda banned plastic bags back in 2008. ♻️\n\nDid you know?",
+    "hook": "Tap to see Africa’s cleanest capital…",
+    "expand": "When most countries were still debating recycling, Rwanda quietly banned plastic bags. Kigali’s streets shine spotless — citizens even clean together once a month during Umuganda. Policy turned into pride. Discipline turned into beauty.",
+    "cta": "Would you clean your city once a month? →",
+    "share_text": "Kigali: clean since 2008. ♻️\nTap to see…"
+  },
+  {
+    "drop": "The Maasai own part of Kenya’s biggest reserve. 🦬\n\nDid you know?",
+    "hook": "Tap to see how tradition meets tourism…",
+    "expand": "In the Maasai Mara, locals lease their land to lodges — sharing revenue instead of losing ground. It funds schools, protects wildlife, and keeps heritage alive. Lions and livestock co-exist again. The thing is, progress works best when it wears tradition’s face.",
+    "cta": "Would you share your land with lions? →",
+    "share_text": "Maasai Mara: owned by its people. 🦬\nTap to see…"
+  },
+  {
+    "drop": "Cape Town almost ran out of water in 2018. 🚱\n\nDid you know?",
+    "hook": "Tap to see how a city beat Day Zero…",
+    "expand": "By March 2018, Cape Town’s taps were weeks from running dry. People showered with buckets and reused dishwater. Then — rainfall returned, and discipline saved the city. Water use dropped by half. Crisis turned into caution. Sometimes survival looks like a shorter shower.",
+    "cta": "Would you live on 50 liters a day? →",
+    "share_text": "Cape Town: the city that beat Day Zero. 🚱\nTap to see…"
+  },
+  {
+    "drop": "Zambia and Zimbabwe share a waterfall — and a flag day. 🇿🇲🇿🇼\n\nDid you know?",
+    "hook": "Tap to see how neighbors celebrate thunder…",
+    "expand": "Victoria Falls sits right between Zambia and Zimbabwe. Every year, both nations host joint festivals there — drums, dances, fireworks under the mist. The border disappears in the roar. Turns out, nature’s the best diplomat.",
+    "cta": "Would you party under a waterfall? →",
+    "share_text": "ZamZim: neighbors by thunder. 🇿🇲🇿🇼\nTap to see…"
+  },
+  {
+    "drop": "Seychelles protects half its ocean territory. 🌊\n\nDid you know?",
+    "hook": "Tap to see the blue deal that stunned the world…",
+    "expand": "In 2018, Seychelles swapped $21 million of debt for marine protection. Now, 410,000 km² of ocean — half its waters — are conservation zones. Fishers earn more, reefs heal, and tourists dive responsibly. Debt-for-nature — that’s finance with heart.",
+    "cta": "Would you trade debt for dolphins? →",
+    "share_text": "Seychelles: 50% ocean protected. 🌊\nTap to see…"
+  },
+  {
+    "drop": "Mauritius built a thriving economy after losing its sugar. 🍍\n\nDid you know?",
+    "hook": "Tap to see a comeback sweeter than sugar…",
+    "expand": "When sugar prices crashed in the 1970s, Mauritius diversified — into tourism, textiles, and finance. Now it ranks among Africa’s richest nations. From cane to code — they turned crisis into creativity.",
+    "cta": "Would you pivot your island’s future? →",
+    "share_text": "Mauritius: sugar to software. 🍍\nTap to see…"
+  },
+  {
+    "drop": "Tunisia sparked the Arab Spring with one protest. 🔥\n\nDid you know?",
+    "hook": "Tap to see how one man lit a revolution…",
+    "expand": "In 2010, street vendor Mohamed Bouazizi set himself on fire after police seized his cart. Protests spread, and within weeks Tunisia’s president fled after 23 years in power. That spark jumped borders — Egypt, Libya, Yemen. One flame, many awakenings.",
+    "cta": "Would you risk it all for justice? →",
+    "share_text": "Tunisia: where the spark began. 🔥\nTap to see…"
+  },
+  {
+    "drop": "Morocco’s Atlas Mountains reach 4,167 meters. 🏔️\n\nDid you know?",
+    "hook": "Tap to see snow in Africa’s desert edge…",
+    "expand": "Mount Toubkal towers above Marrakech — white peaks over red dunes. Berber guides have led climbers there for centuries, offering mint tea at 3,000 meters. The thing is, Africa wears every climate — sometimes all in one horizon.",
+    "cta": "Would you ski above the Sahara? →",
+    "share_text": "Atlas Mountains: snow meets sand. 🏔️\nTap to see…"
+  },
+  {
+    "drop": "Tanzania’s Mount Oldoinyo Lengai erupts black lava. 🌋\n\nDid you know?",
+    "hook": "Tap to see Earth’s strangest volcano…",
+    "expand": "Oldoinyo Lengai — ‘Mountain of God’ in Maasai — spits carbonatite lava, the only black, soda-rich lava on Earth. It’s cool enough to walk near. Every eruption redraws the mountain’s shape. Science calls it weird. Locals call it divine.",
+    "cta": "Would you stand near a black volcano? →",
+    "share_text": "Lengai: the Mountain of God. 🌋\nTap to see…"
+  },
+  {
+    "drop": "Namibia was the first African country to protect wildlife in its constitution. 📜\n\nDid you know?",
+    "hook": "Tap to see law meet nature…",
+    "expand": "In 1990, Namibia wrote wildlife protection into its founding document. Communities now run 80 conservancies, managing 20% of the land. Elephants, lions, and rhinos rebounded. Legal ink turned into living herds.",
+    "cta": "Would you write nature into law? →",
+    "share_text": "Namibia: conservation by constitution. 📜\nTap to see…"
+  },
+  {
+    "drop": "Goree Island once shipped millions — and now teaches millions. ⚓\n\nDid you know?",
+    "hook": "Tap to see the Door of No Return…",
+    "expand": "Off Dakar’s coast, the pink walls of Goree Island still echo with footsteps. Between the 15th and 19th centuries, millions of Africans passed through the ‘Door of No Return.’ Today, it’s a museum visited by presidents, poets, and students. Pain became remembrance — and remembrance became power.",
+    "cta": "Would you walk through that door? →",
+    "share_text": "Goree Island: memory that teaches. ⚓\nTap to see…"
+  },
+  {
+    "drop": "Europe once divided Africa with a ruler. ✂️\n\nDid you know?",
+    "hook": "Tap to see how the Berlin Conference changed everything…",
+    "expand": "In 1884, 14 European nations met in Berlin — not a single African invited — and drew lines across the continent like it was a chessboard. Those borders still define countries today. The irony? They didn’t end tribal wars; they invented new ones. Classic colonialism.",
+    "cta": "Would you redraw the map? →",
+    "share_text": "Berlin 1884: where borders were born. ✂️\nTap to see…"
+  },
+  {
+    "drop": "Ethiopia defeated a European army — and stayed free. ⚔️\n\nDid you know?",
+    "hook": "Tap to see how Adwa rewrote the rules…",
+    "expand": "In 1896, Emperor Menelik II and Empress Taytu led 100,000 Ethiopians against Italy at the Battle of Adwa. Against rifles and artillery, Ethiopia won — shocking Europe. It stayed uncolonized, becoming a symbol of African defiance. The audacity of victory.",
+    "cta": "Would you stand for your soil? →",
+    "share_text": "Adwa 1896: Africa’s proud stand. ⚔️\nTap to see…"
+  },
+  {
+    "drop": "Liberia was founded by freed slaves — and never colonized. 🕊️\n\nDid you know?",
+    "hook": "Tap to see the home built from return…",
+    "expand": "In the 1820s, freed African Americans sailed across the Atlantic to build a nation of their own. They named it Liberia — land of the free — and its capital, Monrovia, after a U.S. president. It was independence with irony: liberty born from exile.",
+    "cta": "Would you sail home to start over? →",
+    "share_text": "Liberia: freedom’s second act. 🕊️\nTap to see…"
+  },
+  {
+    "drop": "The Congo River can light up all of Africa. ⚡\n\nDid you know?",
+    "hook": "Tap to see the river with enough power for a continent…",
+    "expand": "The Congo River thunders with more flow than any river on Earth except the Amazon — enough energy to power all of Africa. The Inga Dam project aims to harness it, but politics and funding stall progress. The thing is, power’s never just electrical.",
+    "cta": "Would you tame a river for light? →",
+    "share_text": "Congo River: Africa’s powerhouse. ⚡\nTap to see…"
+  },
+  {
+    "drop": "Nelson Mandela spent 27 years in prison — and forgave. ✊🏾\n\nDid you know?",
+    "hook": "Tap to see how Robben Island shaped a nation…",
+    "expand": "For 27 years, Mandela broke rocks under Cape Town’s sun. When freedom came in 1990, he didn’t seek revenge — he built reconciliation. In 1994, he became South Africa’s first Black president. The cell became a classroom. Forgiveness became revolution.",
+    "cta": "Would you forgive your captors? →",
+    "share_text": "Mandela: 27 years to unity. ✊🏾\nTap to see…"
+  },
+  {
+    "drop": "Apartheid ended with a vote — and a dance. 🗳️\n\nDid you know?",
+    "hook": "Tap to see how a nation celebrated change…",
+    "expand": "April 27, 1994 — South Africans queued for kilometers, voting for the first time as equals. People danced in line for hours. Black, white, Indian, coloured — all inked the same thumb. Democracy’s first dance floor was an election queue.",
+    "cta": "Would you wait all day to be heard? →",
+    "share_text": "1994: freedom’s first vote. 🗳️\nTap to see…"
+  },
+  {
+    "drop": "Nelson Mandela and Desmond Tutu lived on the same street. 🏡\n\nDid you know?",
+    "hook": "Tap to see the world’s most powerful neighborhood…",
+    "expand": "Vilakazi Street in Soweto is the only street in the world that’s housed two Nobel Peace Prize winners. Mandela and Tutu both called it home. Today it’s lined with murals, music, and memories — proof that greatness can share an address.",
+    "cta": "Would you live where history breathes? →",
+    "share_text": "Vilakazi Street: two Nobels, one block. 🏡\nTap to see…"
+  },
+  {
+    "drop": "The first African woman president took office in 2006. 👩🏾‍💼\n\nDid you know?",
+    "hook": "Tap to meet Ellen Johnson Sirleaf…",
+    "expand": "After Liberia’s brutal civil war, Ellen Johnson Sirleaf — Harvard-trained economist and grandmother — became Africa’s first elected female head of state. She rebuilt schools, roads, and hope. Her nickname? The Iron Lady of Africa. Steel wrapped in grace.",
+    "cta": "Would you rebuild a broken nation? →",
+    "share_text": "Ellen Sirleaf: Africa’s first Iron Lady. 👩🏾‍💼\nTap to see…"
+  },
+  {
+    "drop": "Wangari Maathai planted 50 million trees — and won a Nobel. 🌳\n\nDid you know?",
+    "hook": "Tap to see how peace grows from roots…",
+    "expand": "In Kenya, Professor Wangari Maathai started the Green Belt Movement — women planting trees to stop erosion and empower communities. 50 million trees later, she became the first African woman to win the Nobel Peace Prize. Growth, literally and spiritually.",
+    "cta": "Would you plant for peace? →",
+    "share_text": "Wangari: 50M trees, one Nobel. 🌳\nTap to see…"
+  },
+  {
+    "drop": "The African Union dreams of one passport for all Africans. 🌍\n\nDid you know?",
+    "hook": "Tap to see freedom beyond borders…",
+    "expand": "The AU launched an e-passport in 2016 — meant to let Africans travel visa-free across 55 nations. It’s still rolling out slowly, but the dream stands: one continent, one identity, one key. Imagine crossing from Cairo to Cape Town without a stamp.",
+    "cta": "Would you travel on one Africa passport? →",
+    "share_text": "AU Passport: one continent, one key. 🌍\nTap to see…"
+  },
+  {
+    "drop": "The African Continental Free Trade Area is the world’s biggest new market. 📈\n\nDid you know?",
+    "hook": "Tap to see Africa trading with itself…",
+    "expand": "Signed by 54 nations in 2018, AfCFTA connects 1.4 billion people — $3.4 trillion in combined GDP. It cuts tariffs, boosts trade, and shifts Africa from raw exports to production power. The future factory isn’t overseas — it’s at home.",
+    "cta": "Would you bet on one Africa market? →",
+    "share_text": "AfCFTA: 54 nations, one market. 📈\nTap to see…"
+  },
+  {
+    "drop": "Nigeria has Africa’s biggest economy — and youth drive it. 🚀\n\nDid you know?",
+    "hook": "Tap to see what 200 million hustlers built…",
+    "expand": "Oil used to define Nigeria, but tech, music, and creativity run the show now. Startups like Paystack and Flutterwave process billions. Half the population is under 19. The thing is — when youth dream, GDP listens.",
+    "cta": "Would you build your own Silicon Lagos? →",
+    "share_text": "Nigeria: youth, tech, trillions. 🚀\nTap to see…"
+  },
+  {
+    "drop": "Africa leads the world in mobile money adoption. 📱\n\nDid you know?",
+    "hook": "Tap to see banking without banks…",
+    "expand": "Over 400 million Africans use mobile wallets — more than the rest of the world combined. In villages with no banks, people pay bills, save, and even farm via SMS. Innovation didn’t come from luxury — it came from necessity. Classic Africa.",
+    "cta": "Would you run your life by text? →",
+    "share_text": "Africa: world leader in mobile money. 📱\nTap to see…"
+  },
+  {
+    "drop": "African tech startups raised $6.5 billion in 2022. 💡\n\nDid you know?",
+    "hook": "Tap to see where innovation blooms next…",
+    "expand": "From Lagos to Nairobi, startups raised billions — fintech, healthtech, edtech. Y Combinator alumni, local coders, global investors. Africa isn’t catching up; it’s leaping ahead. The next unicorn won’t come from Silicon Valley — it’ll come from Yaba.",
+    "cta": "Would you invest in Africa’s future? →",
+    "share_text": "Africa: $6.5B in startup dreams. 💡\nTap to see…"
+  },
+  {
+    "drop": "Kenya’s wildlife corridors now run through city highways. 🦓\n\nDid you know?",
+    "hook": "Tap to see zebras crossing under Nairobi’s roads…",
+    "expand": "Engineers built animal underpasses beneath Nairobi’s highways so elephants, zebras, and antelope could migrate safely. Drivers pass overhead; nature moves below. Progress doesn’t have to pave over the wild — it can bend around it.",
+    "cta": "Would you build roads for animals? →",
+    "share_text": "Nairobi: city of coexistence. 🦓\nTap to see…"
+  },
+  {
+    "drop": "The world’s biggest drone delivery network runs in Rwanda. 🚁\n\nDid you know?",
+    "hook": "Tap to see how blood flies faster than traffic…",
+    "expand": "Since 2016, drones from Zipline deliver blood and medicine to 500 hospitals across Rwanda in minutes — no roads needed. They’ve flown over 30 million kilometers. Sky logistics, African edition. Innovation literally took flight.",
+    "cta": "Would you trust a drone with your medicine? →",
+    "share_text": "Rwanda: drones saving lives. 🚁\nTap to see…"
+  },
+  {
+    "drop": "Cape Town built homes with ocean plastic bricks. 🧱\n\nDid you know?",
+    "hook": "Tap to see trash turn into shelter…",
+    "expand": "In 2022, builders in Cape Town created homes using recycled ocean plastic mixed with sand — cheaper, lighter, and cleaner. One house reused 6,000 bottles. Waste became walls. The future’s sustainable, and it’s colorful.",
+    "cta": "Would you live in recycled beauty? →",
+    "share_text": "Cape Town: homes from ocean plastic. 🧱\nTap to see…"
+  },
+  {
+    "drop": "Africans are designing electric cars — locally. ⚙️\n\nDid you know?",
+    "hook": "Tap to see how the continent’s engineers charge ahead…",
+    "expand": "Uganda’s Kiira EV, Nigeria’s Jet Motors, Ghana’s Kantanka — homegrown electric vehicles built from scratch. Solar buses, smart batteries, zero emissions. The narrative flipped: Africa isn’t importing innovation, it’s exporting it.",
+    "cta": "Would you drive Africa-made electric? →",
+    "share_text": "Africa: engines of the future. ⚙️\nTap to see…"
+  },
+  {
+    "drop": "By 2050, Africa will host 1 in 4 people on Earth. 👶🏾\n\nDid you know?",
+    "hook": "Tap to see the future’s youngest continent…",
+    "expand": "Africa’s population is booming — over 2.5 billion by mid-century, half under 25. That’s not a crisis; it’s potential. A workforce, a marketplace, a movement. The future doesn’t just include Africa — it’s shaped by it.",
+    "cta": "Would you bet on the youngest future? →",
+    "share_text": "Africa 2050: 1 in 4 humans. 👶🏾\nTap to see…"
+  },
+  {
+    "drop": "Africa put satellites in orbit — and eyes on its own sky. 🛰️\n\nDid you know?",
+    "hook": "Tap to see who’s building Africa’s space dream…",
+    "expand": "Nigeria, Egypt, South Africa, Kenya — all have satellites circling Earth. They monitor crops, climate, and communication. In 2021, Egypt launched its first locally built satellite. Space once watched Africa; now Africa watches space back.",
+    "cta": "Would you launch your own sky? →",
+    "share_text": "Africa in orbit: the view reversed. 🛰️\nTap to see…"
+  },
+  {
+    "drop": "The Pan-African flag still waves red, black, and green. 🚩\n\nDid you know?",
+    "hook": "Tap to see the colors that united a continent…",
+    "expand": "Created by Marcus Garvey in 1920, the red stands for blood, black for people, and green for land. A century later, those colors still glow across nations and movements — from flags to fashion to protest art. It’s not just cloth; it’s connection.",
+    "cta": "Would you wear your continent’s colors? →",
+    "share_text": "Pan-African flag: one symbol, many nations. 🚩\nTap to see…"
+  }
+]
+
+
+
+

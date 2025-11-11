@@ -1,0 +1,702 @@
+[
+  {
+    "drop": "The Amazon breathes 20% of Earth’s oxygen. 🌳\n\nDid you know?",
+    "hook": "Tap to see the river that flows uphill…",
+    "expand": "The Amazon River pushes so much water into the Atlantic that it creates a 100-mile freshwater bulge — ships sail uphill against the current. It holds 20% of global river flow and pumps out 20% of Earth’s oxygen, yet 17% of the rainforest is already gone.",
+    "cta": "Would you sail uphill? →",
+    "share_text": "Amazon: 20% oxygen, uphill river. 🌳\nTap to see…"
+  },
+  {
+    "drop": "A volcano in Indonesia turned sunsets purple. 🌋\n\nDid you know?",
+    "hook": "Tap to see Krakatoa’s global twilight…",
+    "expand": "When Krakatoa exploded in 1883, it blasted 25 km³ of rock into the sky — ash circled Earth for years, turning sunsets purple and cooling the planet 1.2°C. The blast was heard 4,800 km away in Australia.",
+    "cta": "Would you paint the sky? →",
+    "share_text": "Krakatoa: purple sunsets, global chill. 🌋\nTap to see…"
+  },
+  {
+    "drop": "The Sahara was green 6,000 years ago. 🏜️\n\nDid you know?",
+    "hook": "Tap to see rock art of swimming hippos…",
+    "expand": "Cave paintings in Libya show hippos, giraffes, and rivers — the Sahara was a lush savanna with lakes until 4000 BC. Climate flipped in decades; dunes swallowed the green in under 200 years.",
+    "cta": "Would you swim in the desert? →",
+    "share_text": "Sahara: green past, hippo art. 🏜️\nTap to see…"
+  },
+  {
+    "drop": "A fungus in Oregon is the largest organism alive. 🍄\n\nDid you know?",
+    "hook": "Tap to see 2,400 acres of one mushroom…",
+    "expand": "The honey fungus in Malheur National Forest covers 2,400 acres — one single organism older than 2,400 years. It kills trees to feed, glowing faintly at night with bioluminescence.",
+    "cta": "Would you walk on a giant mushroom? →",
+    "share_text": "Oregon fungus: 2,400 acres alive. 🍄\nTap to see…"
+  },
+  {
+    "drop": "The Dead Sea is sinking 1 meter a year. 💀\n\nDid you know?",
+    "hook": "Tap to see salt crystals sharper than glass…",
+    "expand": "At 430 meters below sea level, the Dead Sea drops 1 meter annually — sinkholes swallow hotels. Salt concentration hits 34%; razor-sharp crystals grow on the shore, cutting barefoot swimmers.",
+    "cta": "Would you float in pain? →",
+    "share_text": "Dead Sea: sinking, glass salt. 💀\nTap to see…"
+  },
+  {
+    "drop": "A jellyfish can live forever. 🪼\n\nDid you know?",
+    "hook": "Tap to see Turritopsis dohrnii reverse aging…",
+    "expand": "The immortal jellyfish reverts from adult to polyp when stressed — theoretically living forever. Found in Mediterranean waters, it’s smaller than your pinky nail but outlives empires.",
+    "cta": "Would you restart life? →",
+    "share_text": "Immortal jelly: forever young. 🪼\nTap to see…"
+  },
+  {
+    "drop": "The Amazon has a river that boils. 🔥\n\nDid you know?",
+    "hook": "Tap to see 6 km of 93°C water…",
+    "expand": "The Shanay-Timpishka river in Peru reaches 93°C — hot enough to brew tea. Geothermal heat, not magma, boils it. Animals fall in and cook alive within minutes.",
+    "cta": "Would you boil an egg in a river? →",
+    "share_text": "Amazon: boiling river, 93°C. 🔥\nTap to see…"
+  },
+  {
+    "drop": "A tree in Utah has been alive 80,000 years. 🌲\n\nDid you know?",
+    "hook": "Tap to see Pando — one root, 47,000 trunks…",
+    "expand": "Pando is a single quaking aspen clone covering 106 acres — 80,000 years old, 6,000 tons heavy. Every golden trunk is genetically identical; fire and elk keep it regenerating.",
+    "cta": "Would you be one tree with 47,000 arms? →",
+    "share_text": "Pando: 80K years, 47K trunks. 🌲\nTap to see…"
+  },
+  {
+    "drop": "The Atacama is the driest place on Earth. 🏜️\n\nDid you know?",
+    "hook": "Tap to see towns with zero rain in 400 years…",
+    "expand": "Some Atacama Desert towns recorded zero rainfall from 1570 to 1971. NASA tests Mars rovers here — soil is more sterile than Antarctic ice. Flowering happens once every 7 years.",
+    "cta": "Would you live without rain? →",
+    "share_text": "Atacama: 400 years dry, Mars lab. 🏜️\nTap to see…"
+  },
+  {
+    "drop": "The Great Barrier Reef is the only living structure visible from space. 🪸\n\nDid you know?",
+    "hook": "Tap to see 2,300 km of coral…",
+    "expand": "Stretching 2,300 km, it hosts 400 coral types and 1,500 fish species — astronauts see it from orbit. Bleaching killed 50% since 1998; crown-of-thorns starfish devour the rest.",
+    "cta": "Would you save a dying reef? →",
+    "share_text": "Great Barrier: space-visible, 50% dead. 🪸\nTap to see…"
+  },
+  {
+    "drop": "A lake in Cameroon explodes gas. 💨\n\nDid you know?",
+    "hook": "Tap to see Lake Nyos kill 1,746 in one night…",
+    "expand": "On August 21, 1986, Lake Nyos released a 100-meter CO₂ cloud — 1,746 people and 3,500 livestock suffocated in minutes. Degassing pipes now prevent repeats.",
+    "cta": "Would you live by a killer lake? →",
+    "share_text": "Nyos: gas cloud, 1,746 dead. 💨\nTap to see…"
+  },
+  {
+    "drop": "The Namib Desert has 1,000-year-old plants. 🌱\n\nDid you know?",
+    "hook": "Tap to see Welwitschia drink fog…",
+    "expand": "Welwitschia mirabilis lives up to 1,500 years with two leaves that grow endlessly — it drinks fog through stomata. Found only in Namib, it survives on 1 cm of mist per year.",
+    "cta": "Would you live on fog? →",
+    "share_text": "Welwitschia: 1,500 years, 2 leaves. 🌱\nTap to see…"
+  },
+  {
+    "drop": "The Arctic tern flies 90,000 km yearly. 🐦\n\nDid you know?",
+    "hook": "Tap to see pole-to-pole migration…",
+    "expand": "From Arctic to Antarctic and back, the tern sees two summers — 90,000 km round trip. It lives 30 years, flying the equivalent of three trips to the moon.",
+    "cta": "Would you fly 90,000 km? →",
+    "share_text": "Arctic tern: 90K km, two summers. 🐦\nTap to see…"
+  },
+  {
+    "drop": "A spider weaves the strongest natural fiber. 🕷️\n\nDid you know?",
+    "hook": "Tap to see Darwin’s bark spider silk…",
+    "expand": "Darwin’s bark spider in Madagascar spins silk 10 times tougher than Kevlar — webs stretch 25 meters across rivers. One strand could stop a Boeing 747 in theory.",
+    "cta": "Would you wear spider silk? →",
+    "share_text": "Spider silk: 10x Kevlar, 25m webs. 🕷️\nTap to see…"
+  },
+  {
+    "drop": "The Baikal seals live in a freshwater lake. 🦭\n\nDid you know?",
+    "hook": "Tap to see seals 1,600 km from ocean…",
+    "expand": "Lake Baikal in Siberia holds 20% of Earth’s unfrozen freshwater — its nerpa seals evolved from Arctic ancestors 2 million years ago. The lake freezes 2 meters thick in winter.",
+    "cta": "Would you swim in ice? →",
+    "share_text": "Baikal: freshwater seals, 2m ice. 🦭\nTap to see…"
+  },
+  {
+    "drop": "The Sahara pumps dust to the Amazon. 🌬️\n\nDid you know?",
+    "hook": "Tap to see 27 million tons fly 8,000 km…",
+    "expand": "Every year, 27 million tons of Saharan dust cross the Atlantic — phosphorus fertilizes the Amazon, replacing what rain washes away. One dust storm can blackout Caribbean skies.",
+    "cta": "Would you breathe desert dust? →",
+    "share_text": "Sahara dust: feeds Amazon. 🌬️\nTap to see…"
+  },
+  {
+    "drop": "A cave in Mexico grows 11-meter crystals. 💎\n\nDid you know?",
+    "hook": "Tap to see Naica’s gypsum giants…",
+    "expand": "Naica Cave in Mexico hosts selenite crystals 11 meters long — grown over 500,000 years in 58°C water. Miners found it in 2000; humidity is 99%, lethal in 15 minutes.",
+    "cta": "Would you mine in hell? →",
+    "share_text": "Naica: 11m crystals, 58°C. 💎\nTap to see…"
+  },
+  {
+    "drop": "The Congo Basin exhales more CO₂ than it absorbs. 🌍\n\nDid you know?",
+    "hook": "Tap to see peatlands that burn underwater…",
+    "expand": "Congo peatlands store 30 billion tons of carbon — but drying and fires release more CO₂ than the forest absorbs. It’s the world’s largest tropical peat swamp, bigger than England.",
+    "cta": "Would you save a swamp? →",
+    "share_text": "Congo peat: CO₂ bomb. 🌍\nTap to see…"
+  },
+  {
+    "drop": "A glacier in Greenland melts a Manhattan every hour. 🧊\n\nDid you know?",
+    "hook": "Tap to see Jakobshavn lose 11 km in 20 years…",
+    "expand": "Jakobshavn Glacier calves 35 billion tons of ice yearly — enough to fill a Manhattan-sized hole every hour. It retreated 11 km since 2000; sea levels rise 1 mm from Greenland alone.",
+    "cta": "Would you watch ice vanish? →",
+    "share_text": "Greenland: Manhattan/hour melt. 🧊\nTap to see…"
+  },
+  {
+    "drop": "The Pacific has a garbage patch twice Texas. 🗑️\n\nDid you know?",
+    "hook": "Tap to see 1.8 trillion plastic pieces…",
+    "expand": "The Great Pacific Garbage Patch spans 1.6 million km² — 1.8 trillion pieces, 80,000 tons. Fish eat microplastics; albatross chicks starve with stomachs full of bottle caps.",
+    "cta": "Would you clean an ocean? →",
+    "share_text": "Garbage Patch: 2x Texas, 1.8T pieces. 🗑️\nTap to see…"
+  },
+  {
+    "drop": "A worm in Antarctica lives in -20°C brine. 🪱\n\nDid you know?",
+    "hook": "Tap to see blood that never freezes…",
+    "expand": "The Antarctic ice worm *Mesenchytraeus solifugus* lives in glacial brine at -20°C — its blood contains antifreeze proteins. It’s the only complex life in solid ice.",
+    "cta": "Would you live in ice? →",
+    "share_text": "Ice worm: -20°C blood. 🪱\nTap to see…"
+  },
+  {
+    "drop": "The Amazon has pink dolphins. 🐬\n\nDid you know?",
+    "hook": "Tap to see boto turn pink with age…",
+    "expand": "Amazon river dolphins start gray and blush pink as they age — scars from fights turn white. Locals believe they shapeshift into humans to seduce villagers at night.",
+    "cta": "Would you date a dolphin? →",
+    "share_text": "Pink dolphin: blush with age. 🐬\nTap to see…"
+  },
+  {
+    "drop": "A lake in Tanzania petrifies animals. 🦩\n\nDid you know?",
+    "hook": "Tap to see flamingos calcified alive…",
+    "expand": "Lake Natron’s pH 10.5 and 60°C water calcifies animals in hours — photographer Nick Brandt posed mummified birds like statues. Soda ash mining threatens the flamingo nursery.",
+    "cta": "Would you touch stone birds? →",
+    "share_text": "Natron: petrifies alive. 🦩\nTap to see…"
+  },
+  {
+    "drop": "The deep sea has more species than land. 🌊\n\nDid you know?",
+    "hook": "Tap to see 91% of ocean life unknown…",
+    "expand": "91% of ocean species are undescribed — the midnight zone hosts fish with transparent heads and glowing lures. One squid filmed at 1,000 meters was longer than a bus.",
+    "cta": "Would you dive to midnight? →",
+    "share_text": "Deep sea: 91% unknown. 🌊\nTap to see…"
+  },
+  {
+    "drop": "A forest in Poland grows upside-down. 🌲\n\nDid you know?",
+    "hook": "Tap to see 400 pines bent by snow…",
+    "expand": "The Crooked Forest near Gryfino has 400 pine trees bent 90° north — planted in 1930, snow or human hands shaped the J-curve. They grow normally above the bend.",
+    "cta": "Would you plant crooked trees? →",
+    "share_text": "Crooked Forest: upside-down pines. 🌲\nTap to see…"
+  },
+  {
+    "drop": "The Salar de Uyuni mirrors the sky. 🪞\n\nDid you know?",
+    "hook": "Tap to see 10,000 km² of glass salt…",
+    "expand": "Bolivia’s salt flat holds 10 billion tons of salt — after rain, it becomes the world’s largest mirror, reflecting clouds perfectly. It contains 50% of Earth’s lithium.",
+    "cta": "Would you walk on clouds? →",
+    "share_text": "Uyuni: sky mirror, lithium king. 🪞\nTap to see…"
+  },
+  {
+    "drop": "A cave in Vietnam fits a 40-story building. 🕳️\n\nDid you know?",
+    "hook": "Tap to see Son Doong’s underground jungle…",
+    "expand": "Son Doong Cave is 9 km long with 200-meter ceilings — it has its own river, jungle, and clouds. Stalagmites reach 80 meters. Only 1,000 tourists enter yearly.",
+    "cta": "Would you camp in a cave city? →",
+    "share_text": "Son Doong: 40-story cave. 🕳️\nTap to see…"
+  },
+  {
+    "drop": "The Door to Hell burns since 1971. 🔥\n\nDid you know?",
+    "hook": "Tap to see a 70-meter gas crater…",
+    "expand": "In Turkmenistan, the Darvaza gas crater was set alight in 1971 to burn off methane — it still burns, 70 meters wide. Soviet engineers thought it would last weeks.",
+    "cta": "Would you light hell? →",
+    "share_text": "Door to Hell: 50 years burning. 🔥\nTap to see…"
+  },
+  {
+    "drop": "A river in Colombia turns rainbow. 🌈\n\nDid you know?",
+    "hook": "Tap to see Caño Cristales’ liquid rainbow…",
+    "expand": "From July to November, Caño Cristales explodes in red, yellow, green, and blue — algae Macarenia clavigera paints the water. It’s called the 'River of Five Colors'.",
+    "cta": "Would you swim in paint? →",
+    "share_text": "Caño Cristales: liquid rainbow. 🌈\nTap to see…"
+  },
+  {
+    "drop": "The Maldives glows at night. ✨\n\nDid you know?",
+    "hook": "Tap to see plankton light the waves…",
+    "expand": "Bioluminescent phytoplankton turn Maldives waves neon blue — each footstep sparks light. Vaadhoo Island’s 'Sea of Stars' peaks in summer. Pollution threatens the glow.",
+    "cta": "Would you walk on stars? →",
+    "share_text": "Maldives: glowing waves. ✨\nTap to see…"
+  },
+  {
+    "drop": "The pistol shrimp snaps at 218 dB. 🦐\n\nDid you know?",
+    "hook": "Tap to see a claw that boils water…",
+    "expand": "The pistol shrimp closes its claw at 100 km/h — the cavitation bubble reaches 4,700°C and collapses with a 218-decibel pop, louder than a rocket launch. It stuns prey and communicates across reefs.",
+    "cta": "Would you snap at 4,700°C? →",
+    "share_text": "Pistol shrimp: 218 dB snap. 🦐\nTap to see…"
+  },
+  {
+    "drop": "A tardigrade survived space vacuum. 🐻\n\nDid you know?",
+    "hook": "Tap to see water bears on the moon…",
+    "expand": "Tardigrades can enter cryptobiosis — dehydrating to 1% water, surviving -272°C, 600 MPa pressure, and 10 days in open space. Thousands hitched a ride on Israel’s Beresheet lander in 2019.",
+    "cta": "Would you moon-walk naked? →",
+    "share_text": "Tardigrade: space survivor. 🐻\nTap to see…"
+  },
+  {
+    "drop": "The lyrebird mimics chainsaws. 🐦\n\nDid you know?",
+    "hook": "Tap to see a bird copy camera shutters…",
+    "expand": "Australia’s superb lyrebird imitates 20+ bird calls plus chainsaws, car alarms, and camera clicks — males use the playlist to seduce females in dense forest. One bird fooled loggers into silence.",
+    "cta": "Would you remix a forest? →",
+    "share_text": "Lyrebird: chainsaw mimic. 🐦\nTap to see…"
+  },
+  {
+    "drop": "Octopuses have 3 hearts and blue blood. 🐙\n\nDid you know?",
+    "hook": "Tap to see an arm that thinks alone…",
+    "expand": "Two hearts pump to gills, one to body — copper-based hemocyanin turns blood blue. Each arm has its own mini-brain; 60% of neurons live outside the head.",
+    "cta": "Would you think with 8 arms? →",
+    "share_text": "Octopus: 3 hearts, arm brains. 🐙\nTap to see…"
+  },
+  {
+    "drop": "The honey badger fears no venom. 🦡\n\nDid you know?",
+    "hook": "Tap to see a 12-kg beast fight lions…",
+    "expand": "Honey badgers shrug off cobra bites, bee stings, and porcupine quills — thick skin and detox enzymes let them raid hives and steal lion kills. Afrikaans call it 'ratel' for its rattle war cry.",
+    "cta": "Would you raid a lion’s dinner? →",
+    "share_text": "Honey badger: venom-proof. 🦡\nTap to see…"
+  },
+  {
+    "drop": "A frog freezes solid and thaws alive. 🐸\n\nDid you know?",
+    "hook": "Tap to see wood frog ice statues…",
+    "expand": "The Alaskan wood frog stops its heart for 7 months — glucose acts as antifreeze, ice fills 70% of its body. In spring, it thaws from the inside out and hops away.",
+    "cta": "Would you hibernate in ice? →",
+    "share_text": "Wood frog: frozen alive. 🐸\nTap to see…"
+  },
+  {
+    "drop": "The mantis shrimp sees 16 colors. 🦐\n\nDid you know?",
+    "hook": "Tap to see eyes with 12-channel vision…",
+    "expand": "Humans see 3 primary colors; mantis shrimp have 12 photoreceptors plus polarization and UV. They punch at 80 km/h — fast enough to boil water on impact.",
+    "cta": "Would you see 16 colors? →",
+    "share_text": "Mantis shrimp: 16-color punch. 🦐\nTap to see…"
+  },
+  {
+    "drop": "The axolotl regrows its brain. 🦎\n\nDid you know?",
+    "hook": "Tap to see a salamander that never grows up…",
+    "expand": "Axolotls stay neotenic — keeping gills and swimming as adults. They regenerate limbs, spinal cord, heart, and even brain tissue in weeks. Aztec god Xolotl disguised himself as one.",
+    "cta": "Would you regrow your brain? →",
+    "share_text": "Axolotl: brain regrow. 🦎\nTap to see…"
+  },
+  {
+    "drop": "A bird flies 11,000 km non-stop. 🕊️\n\nDid you know?",
+    "hook": "Tap to see bar-tailed godwit’s 11-day flight…",
+    "expand": "The bar-tailed godwit flies from Alaska to New Zealand in 11 days without landing — 11,000 km on shrinking fat. It doubles its weight pre-flight, then burns 55% en route.",
+    "cta": "Would you fly 11 days straight? →",
+    "share_text": "Godwit: 11K km non-stop. 🕊️\nTap to see…"
+  },
+  {
+    "drop": "The corpse flower smells like death. ⚰️🌸\n\nDid you know?",
+    "hook": "Tap to see a bloom taller than you…",
+    "expand": "The titan arum in Sumatra blooms once every 7–10 years — 3 meters tall, smelling of rotting flesh to attract carrion beetles. Heat from the spadix mimics a fresh corpse.",
+    "cta": "Would you sniff a corpse? →",
+    "share_text": "Corpse flower: 3m rot. ⚰️🌸\nTap to see…"
+  },
+  {
+    "drop": "A cactus lives 200 years on 12 sips. 🌵\n\nDid you know?",
+    "hook": "Tap to see saguaro drink once a decade…",
+    "expand": "The saguaro cactus absorbs 750 liters in one monsoon storm — enough for 10 years. Arms grow after 75 years; some live 200. Woodpeckers drill homes in the flesh.",
+    "cta": "Would you drink once a decade? →",
+    "share_text": "Saguaro: 200 years, 12 sips. 🌵\nTap to see…"
+  },
+  {
+    "drop": "The Venus flytrap counts to 5. 🪰\n\nDid you know?",
+    "hook": "Tap to see a plant that remembers…",
+    "expand": "Trigger hairs need two touches in 20 seconds to close — five total touches trigger digestion. It secretes enzymes only after confirming prey. One trap snaps 3–5 times before dying.",
+    "cta": "Would you count your meals? →",
+    "share_text": "Flytrap: counts to 5. 🪰\nTap to see…"
+  },
+  {
+    "drop": "A tree talks through fungi. 🧵\n\nDid you know?",
+    "hook": "Tap to see the Wood Wide Web…",
+    "expand": "Mycorrhizal networks link tree roots — older 'mother trees' send carbon to seedlings via fungi. Douglas firs share with paper birch in summer, get repaid in winter.",
+    "cta": "Would you text via mushrooms? →",
+    "share_text": "Wood Wide Web: tree chat. 🧵\nTap to see…"
+  },
+  {
+    "drop": "The rafflesia flower weighs 11 kg. 🌺\n\nDid you know?",
+    "hook": "Tap to see the world’s largest bloom…",
+    "expand": "Rafflesia arnoldii in Borneo grows 1 meter wide, 11 kg — no leaves, no roots, just a parasite on vines. It smells like rotting meat and blooms for 5 days every few years.",
+    "cta": "Would you carry an 11-kg flower? →",
+    "share_text": "Rafflesia: 1m, 11 kg, no roots. 🌺\nTap to see…"
+  },
+  {
+    "drop": "A fern survived the Hiroshima blast. 🌿\n\nDid you know?",
+    "hook": "Tap to see a plant 600 m from ground zero…",
+    "expand": "A maidenhair fern 600 meters from the Hiroshima epicenter regrew within a month — now called 'Hibaku tree.' Over 170 plants within 2 km survived the 1945 blast.",
+    "cta": "Would you regrow after a nuke? →",
+    "share_text": "Hiroshima fern: nuke survivor. 🌿\nTap to see…"
+  },
+  {
+    "drop": "The dragon blood tree bleeds red. 🩸\n\nDid you know?",
+    "hook": "Tap to see Socotra’s umbrella upside-down…",
+    "expand": "Dracaena cinnabari on Yemen’s Socotra Island oozes red sap — locals use it as medicine and dye. The mushroom-shaped canopy catches fog in a desert that gets 25 cm rain yearly.",
+    "cta": "Would you drink tree blood? →",
+    "share_text": "Dragon blood: red sap umbrella. 🩸\nTap to see…"
+  },
+  {
+    "drop": "A vine climbs 30 cm a day. 🌱\n\nDid you know?",
+    "hook": "Tap to see kudzu swallow houses…",
+    "expand": "Kudzu, imported to the US South in 1876, grows 30 cm daily — it buries forests, houses, and cars. Nicknamed 'the vine that ate the South,' it covers 3 million hectares.",
+    "cta": "Would you let vines eat your home? →",
+    "share_text": "Kudzu: 30 cm/day, house eater. 🌱\nTap to see…"
+  },
+  {
+    "drop": "The wollemi pine hid for 200 million years. 🌲\n\nDid you know?",
+    "hook": "Tap to see a dinosaur tree in Sydney…",
+    "expand": "Found in 1994 in Wollemi National Park, the 'dinosaur tree' was known only from 200-million-year-old fossils. Fewer than 100 wild trees exist; clones now guard botanic gardens.",
+    "cta": "Would you hide 200M years? →",
+    "share_text": "Wollemi pine: living fossil. 🌲\nTap to see…"
+  },
+  {
+    "drop": "A cactus flower blooms one night a year. 🌸\n\nDid you know?",
+    "hook": "Tap to see Queen of the Night perfume the desert…",
+    "expand": "The night-blooming cereus opens for 6 hours once a year — scent like vanilla draws bats and moths. By dawn, petals wilt. Some live 300 years for 300 blooms.",
+    "cta": "Would you bloom once a year? →",
+    "share_text": "Night cereus: 1 night bloom. 🌸\nTap to see…"
+  },
+  {
+    "drop": "The baobab stores 120,000 liters. 🥤\n\nDid you know?",
+    "hook": "Tap to see a tree with a swimming pool inside…",
+    "expand": "The African baobab’s spongy trunk holds 120,000 liters of water — elephants rip bark to drink. Some trees are 2,000 years old; hollow trunks become bars and prisons.",
+    "cta": "Would you live in a water bottle tree? →",
+    "share_text": "Baobab: 120K liters inside. 🥤\nTap to see…"
+  },
+  {
+    "drop": "A 3,000°C lightning bolt forges glass. ⚡\n\nDid you know?",
+    "hook": "Tap to see fulgurite tubes in sand…",
+    "expand": "Lightning hits sand at 3,000°C — silica fuses into glassy tubes called fulgurites, up to 5 meters long. Each strike is unique, like frozen lightning fossils.",
+    "cta": "Would you collect lightning art? →",
+    "share_text": "Fulgurite: lightning glass. ⚡\nTap to see…"
+  },
+  {
+    "drop": "A waterfall flows upward in Antarctica. 💧\n\nDid you know?",
+    "hook": "Tap to see Blood Falls bleed red…",
+    "expand": "Blood Falls in Taylor Glacier oozes iron-rich brine — 2 million years old, red like blood. Wind speed hits 320 km/h, pushing water upward in -50°C cold.",
+    "cta": "Would you drink 2M-year-old blood? →",
+    "share_text": "Blood Falls: upward red flow. 💧\nTap to see…"
+  },
+  {
+    "drop": "A desert blooms after 1 cm rain. 🌼\n\nDid you know?",
+    "hook": "Tap to see Atacama explode in pink…",
+    "expand": "Every 5–7 years, 1 cm of rain triggers Atacama’s 'flowering desert' — 200 species burst into pink, purple, and yellow across 200 km. Seeds wait decades in soil.",
+    "cta": "Would you wait decades to bloom? →",
+    "share_text": "Atacama bloom: 1 cm rain. 🌼\nTap to see…"
+  },
+  {
+    "drop": "A 60-meter wave froze mid-crash. 🌊\n\nDid you know?",
+    "hook": "Tap to see Antarctica’s ice tsunami…",
+    "expand": "In 2018, a 60-meter rogue wave hit Antarctica and flash-froze — ice preserved the curl like a snapshot. Winds reached 200 km/h; the wave never broke.",
+    "cta": "Would you surf a frozen wave? →",
+    "share_text": "Frozen wave: 60m curl. 🌊\nTap to see…"
+  },
+  {
+    "drop": "A geyser shoots 60 meters every 90 min. 💦\n\nDid you know?",
+    "hook": "Tap to see Old Faithful’s perfect clock…",
+    "expand": "Old Faithful in Yellowstone erupts 60 meters high every 90 minutes (±10 min) — 3,700 liters of 95°C water. Native Americans called it 'the heart of the Earth beating.'",
+    "cta": "Would you predict a geyser? →",
+    "share_text": "Old Faithful: 90-min clock. 💦\nTap to see…"
+  },
+  {
+    "drop": "A 300-meter sinkhole swallowed a town. 🕳️\n\nDid you know?",
+    "hook": "Tap to see Berezniki’s growing void…",
+    "expand": "In Russia, a potassium mine collapse created a 300-meter-wide, 400-meter-deep sinkhole — it swallowed buildings, roads, and a factory. It grows 2 meters yearly.",
+    "cta": "Would you live by a growing hole? →",
+    "share_text": "Berezniki: 300m sinkhole town. 🕳️\nTap to see…"
+  },
+  {
+    "drop": "A volcano glows blue with acid fire. 🔥\n\nDid you know?",
+    "hook": "Tap to see Kawah Ijen’s electric flames…",
+    "expand": "Kawah Ijen in Indonesia burns sulfur at 600°C — blue flames dance 5 meters high. Miners carry 90 kg of yellow sulfur down 3 km daily for $13.",
+    "cta": "Would you mine blue fire? →",
+    "share_text": "Kawah Ijen: blue sulfur fire. 🔥\nTap to see…"
+  },
+  {
+    "drop": "A 100-meter ice tower grows in winter. 🗼\n\nDid you know?",
+    "hook": "Tap to see Michigan’s frozen lighthouse…",
+    "expand": "Lake Michigan’s St. Joseph lighthouse freezes into a 100-meter ice tower each winter — waves crash, wind sculpts. It melts by spring, reborn every year.",
+    "cta": "Would you climb an ice castle? →",
+    "share_text": "Ice tower: 100m frozen lighthouse. 🗼\nTap to see…"
+  },
+  {
+    "drop": "A river catches fire 15 times. 🔥\n\nDid you know?",
+    "hook": "Tap to see Cuyahoga burn in 1969…",
+    "expand": "Cleveland’s Cuyahoga River caught fire 15 times between 1868 and 1969 — oil and debris fueled flames 5 stories high. The 1969 blaze sparked the Clean Water Act.",
+    "cta": "Would you swim in firewater? →",
+    "share_text": "Cuyahoga: 15 fires, law born. 🔥\nTap to see…"
+  },
+  {
+    "drop": "A 2,000°C lava lake never cools. 🌋\n\nDid you know?",
+    "hook": "Tap to see Erta Ale’s permanent hell…",
+    "expand": "Erta Ale in Ethiopia has held a lava lake since 1906 — 2,000°C molten rock churns in a 200-meter crater. Afar nomads call it 'the gateway to hell.'",
+    "cta": "Would you picnic by lava? →",
+    "share_text": "Erta Ale: 100-year lava lake. 🌋\nTap to see…"
+  },
+  {
+    "drop": "The Mariana Trench is deeper than Everest is tall. 🕳️\n\nDid you know?",
+    "hook": "Tap to see 11,000 m of pure darkness…",
+    "expand": "At 10,984 meters, Challenger Deep swallows Mount Everest with 2 km to spare — pressure crushes steel, water glows blue from bioluminescent life. Only three humans have visited; one was James Cameron.",
+    "cta": "Would you dive 11 km? →",
+    "share_text": "Mariana: deeper than Everest. 🕳️\nTap to see…"
+  },
+  {
+    "drop": "A jellyfish blooms 100 km wide. 🌊\n\nDid you know?",
+    "hook": "Tap to see Nomura’s swarm weigh 200 kg each…",
+    "expand": "Nomura’s jellyfish in the Sea of Japan form blooms 100 km across — each bell is 2 meters wide, tentacles 200 kg. Fishermen haul them in nets; one sank a 10-ton trawler.",
+    "cta": "Would you fish a 200-kg jelly? →",
+    "share_text": "Nomura: 100 km bloom. 🌊\nTap to see…"
+  },
+  {
+    "drop": "The Pacific Ocean hides 25,000 islands. 🏝️\n\nDid you know?",
+    "hook": "Tap to see 1,000 still uncontacted tribes…",
+    "expand": "Polynesia alone has 10,000 islands — most smaller than Lagos Island. North Sentinel Island remains uncontacted; arrows greet outsiders. Plastic outweighs fish in some lagoons.",
+    "cta": "Would you sail to nowhere? →",
+    "share_text": "Pacific: 25K islands, arrows. 🏝️\nTap to see…"
+  },
+  {
+    "drop": "A fish climbs waterfalls with its mouth. 🐟\n\nDid you know?",
+    "hook": "Tap to see Hawaii’s goby scale 400 m cliffs…",
+    "expand": "The Hawaiian stream goby uses a suction-cup mouth to climb 400-meter waterfalls — born in rivers, they swim to sea, then return as adults to spawn. One leap at a time.",
+    "cta": "Would you climb with your lips? →",
+    "share_text": "Goby: mouth waterfall. 🐟\nTap to see…"
+  },
+  {
+    "drop": "The ocean floor has 3 million shipwrecks. ⚓\n\nDid you know?",
+    "hook": "Tap to see Titanic’s 3,800 m grave…",
+    "expand": "UNESCO estimates 3 million wrecks — only 1% found. Titanic lies in two pieces at 3,800 m; rusticles eat iron at 0.1 mm/year. Wood-boring worms devoured the decks.",
+    "cta": "Would you dive to ghosts? →",
+    "share_text": "Wrecks: 3M lost, rusticles. ⚓\nTap to see…"
+  },
+  {
+    "drop": "A whale sings at 188 dB. 🐋\n\nDid you know?",
+    "hook": "Tap to see blue whale louder than a jet…",
+    "expand": "Blue whale songs travel 1,000 km — 188 decibels, louder than a jet engine. Males sing to mate; each population has a unique dialect that evolves yearly.",
+    "cta": "Would you sing across oceans? →",
+    "share_text": "Blue whale: 188 dB love. 🐋\nTap to see…"
+  },
+  {
+    "drop": "The Bristlecone pine lives 5,000 years. 🌲\n\nDid you know?",
+    "hook": "Tap to see Methuselah older than pyramids…",
+    "expand": "Methuselah in California’s White Mountains is 4,853 years old — it sprouted when Egypt built pyramids. Needles survive -40°C; bark is fireproof. Location is secret.",
+    "cta": "Would you outlive Rome? →",
+    "share_text": "Bristlecone: 5K years. 🌲\nTap to see…"
+  },
+  {
+    "drop": "A desert beetle drinks fog with its butt. 🪲\n\nDid you know?",
+    "hook": "Tap to see Namib beetle’s 5 AM water dance…",
+    "expand": "The Namib darkling beetle tilts its back at dawn — fog condenses into droplets that roll to its mouth. It drinks 12% of its weight in 2 hours. No rain needed.",
+    "cta": "Would you drink with your bum? →",
+    "share_text": "Fog beetle: butt drinker. 🪲\nTap to see…"
+  },
+  {
+    "drop": "The fastest animal hits 390 km/h. 🦅\n\nDid you know?",
+    "hook": "Tap to see peregrine falcon’s 100 m/s dive…",
+    "expand": "In a stoop, the peregrine falcon reaches 390 km/h — fastest member of the animal kingdom. It closes eyes to slits; nictitating membranes shield from 200 km/h wind.",
+    "cta": "Would you dive at 390 km/h? →",
+    "share_text": "Peregrine: 390 km/h. 🦅\nTap to see…"
+  },
+  {
+    "drop": "A fungus glows to lure insects. ✨\n\nDid you know?",
+    "hook": "Tap to see New Zealand’s ghost mushroom…",
+    "expand": "Foxfire fungi in New Zealand forests glow green at night — bioluminescence attracts beetles that spread spores. Māori used them as trail markers in pitch-black bush.",
+    "cta": "Would you light the forest? →",
+    "share_text": "Ghost fungus: green lure. ✨\nTap to see…"
+  },
+  {
+    "drop": "The tallest waterfall drops 979 m. 💦\n\nDid you know?",
+    "hook": "Tap to see Angel Falls vanish in mist…",
+    "expand": "Angel Falls in Venezuela plunges 979 meters — 19 times taller than Niagara. Water turns to mist before hitting ground. Pilot Jimmie Angel crashed on top in 1937.",
+    "cta": "Would you fly into mist? →",
+    "share_text": "Angel Falls: 979 m drop. 💦\nTap to see…"
+  },
+  {
+    "drop": "A lake has 20% of Earth’s fresh water. 🏞️\n\nDid you know?",
+    "hook": "Tap to see Baikal hold 23,615 km³…",
+    "expand": "Lake Baikal contains 23,615 km³ of water — more than all Great Lakes combined. It’s 1,642 m deep; sunlight penetrates 40 m, revealing sponge gardens.",
+    "cta": "Would you drink 20% of the world? →",
+    "share_text": "Baikal: 20% fresh water. 🏞️\nTap to see…"
+  },
+  {
+    "drop": "A bird navigates by stars. 🌟\n\nDid you know?",
+    "hook": "Tap to see indigo bunting’s night map…",
+    "expand": "Indigo buntings learn star patterns as fledglings — they fly 2,000 km using constellations. Lab birds orient correctly under planetarium skies.",
+    "cta": "Would you fly by stars? →",
+    "share_text": "Bunting: star GPS. 🌟\nTap to see…"
+  },
+  {
+    "drop": "The coldest place hit -89.2°C. ❄️\n\nDid you know?",
+    "hook": "Tap to see Vostok freeze breath instantly…",
+    "expand": "On July 21, 1983, Vostok Station in Antarctica recorded -89.2°C — breath freezes mid-air, metal sticks to skin. Ice cores here hold 420,000 years of climate data.",
+    "cta": "Would you breathe ice? →",
+    "share_text": "Vostok: -89.2°C. ❄️\nTap to see…"
+  },
+  {
+    "drop": "A desert gets 430 mm snow yearly. ⛄\n\nDid you know?",
+    "hook": "Tap to see Antarctica’s Dry Valleys blizzard…",
+    "expand": "The McMurdo Dry Valleys receive less than 10 mm rain but 430 mm snow equivalent — katabatic winds sublimate it instantly. Mars-like soil supports no life.",
+    "cta": "Would you ski on Mars? →",
+    "share_text": "Dry Valleys: snow desert. ⛄\nTap to see…"
+  },
+  {
+    "drop": "The hottest place boiled eggs in sand. 🔥\n\nDid you know?",
+    "hook": "Tap to see Death Valley hit 56.7°C…",
+    "expand": "On July 10, 1913, Death Valley reached 56.7°C — tourists fry eggs on car hoods. Ground hits 93°C; shoes melt. Badwater Basin sits 86 m below sea level.",
+    "cta": "Would you cook on sand? →",
+    "share_text": "Death Valley: 56.7°C eggs. 🔥\nTap to see…"
+  },
+  {
+    "drop": "A cloud weighs 500,000 kg. ☁️\n\nDid you know?",
+    "hook": "Tap to see cumulus float a Boeing…",
+    "expand": "A single cumulus cloud holds 500 tons of water — equivalent to 100 elephants. It floats because droplets are 1/1,000th the size of raindrops.",
+    "cta": "Would you carry 100 elephants? →",
+    "share_text": "Cloud: 500K kg water. ☁️\nTap to see…"
+  },
+  {
+    "drop": "A tornado lifted a train in 1930. 🌪️\n\nDid you know?",
+    "hook": "Tap to see Minnesota’s 100-ton fling…",
+    "expand": "On August 1, 1930, an F5 tornado in Minnesota lifted a 100-ton train 25 meters and tossed it 80 meters. Winds hit 480 km/h; 1,100 homes vanished.",
+    "cta": "Would you ride a flying train? →",
+    "share_text": "Tornado: 100-ton train lift. 🌪️\nTap to see…"
+  },
+  {
+    "drop": "The longest lightning bolt was 768 km. ⚡\n\nDid you know?",
+    "hook": "Tap to see Brazil’s megaflash…",
+    "expand": "On October 31, 2018, a single lightning bolt stretched 768 km across southern Brazil — longer than Lagos to Abuja. It lasted 16.7 seconds.",
+    "cta": "Would you outrun 768 km? →",
+    "share_text": "Lightning: 768 km bolt. ⚡\nTap to see…"
+  },
+  {
+    "drop": "A hurricane has an eye 300 km wide. 🌀\n\nDid you know?",
+    "hook": "Tap to see Typhoon Tip’s calm center…",
+    "expand": "Typhoon Tip in 1979 had an eye 300 km across — you could fit Lagos inside. Winds hit 305 km/h; it killed 99 but weakened before land.",
+    "cta": "Would you stand in the eye? →",
+    "share_text": "Tip: 300 km eye. 🌀\nTap to see…"
+  },
+  {
+    "drop": "A mountain grows 4 mm a year. ⛰️\n\nDid you know?",
+    "hook": "Tap to see Nanga Parbat rise faster than nails…",
+    "expand": "Nanga Parbat in Pakistan grows 4–7 mm yearly — erosion removes 3 mm, net gain 1–4 mm. It’s the 9th highest peak and still climbing.",
+    "cta": "Would you grow with a mountain? →",
+    "share_text": "Nanga Parbat: 4 mm/year. ⛰️\nTap to see…"
+  },
+  {
+    "drop": "A river runs under the Amazon. 🌀\n\nDid you know?",
+    "hook": "Tap to see Hamza flow 6,000 m deep…",
+    "expand": "The Hamza River flows 6,000 m underground beneath the Amazon — 4,000 km long, 400 km wide, but moves 1 cm/year. It’s the world’s deepest river.",
+    "cta": "Would you swim underground? →",
+    "share_text": "Hamza: 6 km deep river. 🌀\nTap to see…"
+  },
+  {
+    "drop": "A cave holds 40 million bats. 🦇\n\nDid you know?",
+    "hook": "Tap to see Bracken Cave’s dusk tornado…",
+    "expand": "Bracken Cave in Texas hosts 40 million Mexican free-tailed bats — their dusk exit forms a 5-km tornado. Each eats 400 tons of insects nightly.",
+    "cta": "Would you stand under 40M bats? →",
+    "share_text": "Bracken: 40M bats. 🦇\nTap to see…"
+  },
+  {
+    "drop": "A fish walks on land for 6 days. 🐠\n\nDid you know?",
+    "hook": "Tap to see mudskipper breathe air…",
+    "expand": "Mudskippers in West Africa use pectoral fins to walk on mudflats — they breathe through wet skin and mouth lining. They fight rivals and court mates on land.",
+    "cta": "Would you walk for 6 days? →",
+    "share_text": "Mudskipper: land fish. 🐠\nTap to see…"
+  },
+  {
+    "drop": "A plant eats rats. 🪤\n\nDid you know?",
+    "hook": "Tap to see Nepenthes rajah swallow rodents…",
+    "expand": "Nepenthes rajah in Borneo has pitchers 41 cm deep — rats and birds drown in digestive soup. One plant holds 3.5 liters of fluid; enzymes dissolve bones in days.",
+    "cta": "Would you drink rat soup? →",
+    "share_text": "Nepenthes: rat eater. 🪤\nTap to see…"
+  },
+  {
+    "drop": "A spider builds a 2-meter trapdoor. 🕸️\n\nDid you know?",
+    "hook": "Tap to see Liphistius hide in silk bunkers…",
+    "expand": "Liphistius trapdoor spiders in Malaysia weave 2-meter silk tubes with hinged doors — they ambush prey from below. Fossils show they hunted 300 million years ago.",
+    "cta": "Would you live in a silk bunker? →",
+    "share_text": "Trapdoor: 2m silk door. 🕸️\nTap to see…"
+  },
+  {
+    "drop": "A bird steals fire to cook food. 🔥\n\nDid you know?",
+    "hook": "Tap to see Australian black kite carry flames…",
+    "expand": "Black kites in Australia pick up burning sticks from bushfires and drop them 1 km away — starting new fires to flush out prey. Aboriginals call them 'firehawks.'",
+    "cta": "Would you weaponize fire? →",
+    "share_text": "Firehawk: flame carrier. 🔥\nTap to see…"
+  },
+  {
+    "drop": "A lizard shoots blood from its eyes. 🦎\n\nDid you know?",
+    "hook": "Tap to see horned lizard spray 1.5 m…",
+    "expand": "The Texas horned lizard ruptures eye sinuses to shoot blood 1.5 meters — the bitter taste repels coyotes. It can fire 3–4 times before needing a recharge.",
+    "cta": "Would you bleed601 from your eyes? →",
+    "share_text": "Horned lizard: blood shooter. 🦎\nTap to see…"
+  },
+  {
+    "drop": "A tree drops 400,000 seeds a day. 🌳\n\nDid you know?",
+    "hook": "Tap to see bamboo rain in Madagascar…",
+    "expand": "The giant bamboo in Madagascar releases 400,000 seeds daily during mass flowering — every 30–100 years. Rats explode in population, then starve when it dies.",
+    "cta": "Would you seed-bomb a forest? →",
+    "share_text": "Bamboo: 400K seeds/day. 🌳\nTap to see…"
+  },
+  {
+    "drop": "A volcano spews 300 tons of gold yearly. 🪙\n\nDid you know?",
+    "hook": "Tap to see Kilauea’s $1B lava…",
+    "expand": "Kilauea in Hawaii erupts lava with 300 tons of gold dissolved — worth $1 billion yearly, but at 1 part per billion, it’s unmineable. Sulfur crystals glitter like diamonds.",
+    "cta": "Would you mine lava gold? →",
+    "share_text": "Kilauea: 300 tons gold. 🪙\nTap to see…"
+  },
+  {
+    "drop": "A glacier sings like a whale. 🧊\n\nDid you know?",
+    "hook": "Tap to see Greenland ice hum at 20 Hz…",
+    "expand": "Meltwater rivers under Greenland ice create 20 Hz vibrations — recorded as whale-like songs. The sound maps hidden tunnels 1 km deep.",
+    "cta": "Would you sing under ice? →",
+    "share_text": "Glacier song: 20 Hz whale. 🧊\nTap to see…"
+  },
+  {
+    "drop": "A desert frog hibernates 7 years. 🐸\n\nDid you know?",
+    "hook": "Tap to see Australian water-holding frog cocoon…",
+    "expand": "The water-holding frog burrows and forms a cocoon of shed skin — it survives 7 years without rain, storing water in its bladder. Aboriginals squeeze it for drinks.",
+    "cta": "Would you drink frog water? →",
+    "share_text": "Water frog: 7-year sleep. 🐸\nTap to see…"
+  },
+  {
+    "drop": "A fish freezes and swims again. 🐟\n\nDid you know?",
+    "hook": "Tap to see Antarctic notothenioid ice blood…",
+    "expand": "Antarctic icefish produce antifreeze glycoproteins — they freeze at -2°C but thaw and swim. Their blood is clear; no hemoglobin needed in cold, oxygen-rich water.",
+    "cta": "Would you swim in -2°C? →",
+    "share_text": "Icefish: freeze-thaw. 🐟\nTap to see…"
+  },
+  {
+    "drop": "A bird mimics a snake to scare predators. 🐍\n\nDid you know?",
+    "hook": "Tap to see cinereous mourner’s hiss…",
+    "expand": "Amazon’s cinereous mourner chick grows orange spiky feathers and hisses like a venomous caterpillar — predators flee. It sheds the disguise after 18 days.",
+    "cta": "Would you fake being poison? →",
+    "share_text": "Mourner: snake mimic. 🐍\nTap to see…"
+  },
+  {
+    "drop": "A plant strangles trees to death. 🌿\n\nDid you know?",
+    "hook": "Tap to see strangler fig hug 500 years…",
+    "expand": "Strangler figs start as epiphytes — roots descend, encircle, and crush the host tree over 500 years. The hollow core becomes a cathedral of roots.",
+    "cta": "Would you hug to kill? →",
+    "share_text": "Strangler fig: 500-year hug. 🌿\nTap to see…"
+  },
+  {
+    "drop": "A lake turns animals to stone. 🦌\n\nDid you know?",
+    "hook": "Tap to see Lake Natron’s calcified corpses…",
+    "expand": "Tanzania’s Lake Natron (pH 10.5) calcifies animals in hours — flamingos, fish, and bats become statues. Photographer Nick Brandt posed them like living art.",
+    "cta": "Would you pose a stone bird? →",
+    "share_text": "Natron: stone animals. 🦌\nTap to see…"
+  },
+  {
+    "drop": "A mountain rains fish yearly. 🐟\n\nDid you know?",
+    "hook": "Tap to see Honduras’ Lluvia de Peces…",
+    "expand": "Every May–July, Yoro in Honduras experiences 'fish rain' — tornadoes lift fish from the Caribbean 200 km away. Locals collect and cook them in celebration.",
+    "cta": "Would you eat sky fish? →",
+    "share_text": "Fish rain: Honduras sky. 🐟\nTap to see…"
+  },
+  {
+    "drop": "A cave glows with 3 km of worm silk. 🪱\n\nDid you know?",
+    "hook": "Tap to see Waitomo’s galaxy ceiling…",
+    "expand": "New Zealand’s Waitomo Caves host glowworms that drop silk threads 3 km total — bioluminescent larvae attract prey. Tourists boat under a living Milky Way.",
+    "cta": "Would you fish with light? →",
+    "share_text": "Glowworms: 3 km silk. 🪱\nTap to see…"
+  },
+  {
+    "drop": "A desert moves 20 m a year. 🏜️\n\nDid you know?",
+    "hook": "Tap to see Namibia’s Dune 7 march…",
+    "expand": "Dune 7 in the Namib Desert migrates 20 meters annually — wind pushes sand over the crest. It stands 383 m tall, the highest in the region.",
+    "cta": "Would you outrun a dune? →",
+    "share_text": "Dune 7: 20 m/year walk. 🏜️\nTap to see…"
+  },
+  {
+    "drop": "A tree lives inside another tree. 🌳\n\nDid you know?",
+    "hook": "Tap to see India’s 400-year nesting banyan…",
+    "expand": "A 400-year-old banyan in Andhra Pradesh swallowed a palm — the palm trunk rotted, leaving a hollow where another tree now grows inside the banyan’s roots.",
+    "cta": "Would you live inside a tree? →",
+    "share_text": "Nested tree: 400-year hug. 🌳\nTap to see…"
+  }
+]

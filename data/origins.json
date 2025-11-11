@@ -1,0 +1,702 @@
+[
+  {
+    "drop": "Coffee was born in Ethiopia 1,200 years ago. ☕\n\nDid you know?",
+    "hook": "Tap to see a goatherd dance with goats…",
+    "expand": "Around 850 AD, Kaldi the goatherd watched his goats prance after eating red cherries from a wild shrub in Kaffa — monks brewed the first coffee to stay awake during prayers. Ethiopia still exports 400,000 tons yearly; the word 'coffee' comes from Kaffa.",
+    "cta": "Would you drink goat-fuel? →",
+    "share_text": "Coffee: Ethiopia, 1,200 yrs. ☕\nTap to see…"
+  },
+  {
+    "drop": "Chocolate started as bitter beer in Mexico. 🍺\n\nDid you know?",
+    "hook": "Tap to see Aztecs pay taxes in cacao…",
+    "expand": "Olmecs fermented cacao pulp into alcoholic beer 3,900 years ago — Aztecs later ground beans into a bitter drink for nobles, using seeds as currency. One turkey cost 100 beans; Cortés brought it to Spain in 1528.",
+    "cta": "Would you pay with chocolate? →",
+    "share_text": "Chocolate: beer origin, Aztec cash. 🍺\nTap to see…"
+  },
+  {
+    "drop": "The pizza was invented in Naples 1889. 🍕\n\nDid you know?",
+    "hook": "Tap to see Queen Margherita taste red-white-green…",
+    "expand": "Raffaele Esposito baked three pies for Queen Margherita in 1889 — she loved the tomato, mozzarella, and basil one, matching Italy’s flag. He named it Pizza Margherita; Naples still guards the 22-step recipe.",
+    "cta": "Would you crown a pizza? →",
+    "share_text": "Pizza: 1889, queen’s flag. 🍕\nTap to see…"
+  },
+  {
+    "drop": "Sushi began as fermented fish in rice. 🍣\n\nDid you know?",
+    "hook": "Tap to see 2,000-year-old rice preservative…",
+    "expand": "In 4th-century China, fish was packed in fermented rice to preserve it — the rice was discarded. By 8th-century Japan, people ate both; Edo’s 1820s street stalls invented nigiri with fresh fish.",
+    "cta": "Would you eat 2,000-year rice? →",
+    "share_text": "Sushi: fermented fish. 🍣\nTap to see…"
+  },
+  {
+    "drop": "The croissant was born in Vienna, not France. 🥐\n\nDid you know?",
+    "hook": "Tap to see bakers foil Ottoman tunnels…",
+    "expand": "In 1683, Viennese bakers working at night heard Ottomans digging under the city — they raised the alarm. The crescent-shaped kipferl celebrated victory; Marie Antoinette brought it to Paris in 1770.",
+    "cta": "Would you bake for war? →",
+    "share_text": "Croissant: Vienna 1683. 🥐\nTap to see…"
+  },
+  {
+    "drop": "Tea started as medicine in China 2737 BC. 🍵\n\nDid you know?",
+    "hook": "Tap to see Emperor Shen Nung boil leaves…",
+    "expand": "Legend says Emperor Shen Nung discovered tea when leaves blew into his boiling water in 2737 BC — he used it as medicine. By Tang dynasty, it was a daily drink; British stole seeds in 1848.",
+    "cta": "Would you drink accident tea? →",
+    "share_text": "Tea: 2737 BC medicine. 🍵\nTap to see…"
+  },
+  {
+    "drop": "The hamburger came from German immigrants. 🍔\n\nDid you know?",
+    "hook": "Tap to see Hamburg steak on a bun…",
+    "expand": "German immigrants brought 'Hamburg steak' to America in the 1800s — minced beef patty. In 1904, St. Louis World’s Fair vendors put it between buns for easy eating; White Castle standardized it in 1921.",
+    "cta": "Would you bun a steak? →",
+    "share_text": "Burger: German bun. 🍔\nTap to see…"
+  },
+  {
+    "drop": "Pasta was eaten in China 2,000 years before Italy. 🍝\n\nDid you know?",
+    "hook": "Tap to see millet noodles in a 4,000-year pot…",
+    "expand": "Archaeologists found 4,000-year-old millet noodles in Lajia, China — 50 cm long. Arab traders brought durum wheat pasta to Sicily in the 9th century; Marco Polo myth is fake.",
+    "cta": "Would you eat 4,000-year pasta? →",
+    "share_text": "Pasta: China 2000 BC. 🍝\nTap to see…"
+  },
+  {
+    "drop": "The sandwich was born in a gambling den. 🥪\n\nDid you know?",
+    "hook": "Tap to see Earl of Sandwich eat one-handed…",
+    "expand": "In 1762, John Montagu, 4th Earl of Sandwich, refused to leave a 24-hour gambling table — he asked for meat between bread to eat with one hand. London’s Beefsteak Club copied him.",
+    "cta": "Would you gamble for lunch? →",
+    "share_text": "Sandwich: 1762 cards. 🥪\nTap to see…"
+  },
+  {
+    "drop": "Potato chips were invented to spite a customer. 🥔\n\nDid you know?",
+    "hook": "Tap to see Chef Crum slice anger thin…",
+    "expand": "In 1853, customer Cornelius Vanderbilt sent fries back for being too thick — chef George Crum sliced potatoes paper-thin, fried them crisp, and salted heavily. The 'Saratoga Crunch' became a hit.",
+    "cta": "Would you fry revenge? →",
+    "share_text": "Chips: spite slices. 🥔\nTap to see…"
+  },
+  {
+    "drop": "The popsicle was invented by an 11-year-old. 🍡\n\nDid you know?",
+    "hook": "Tap to see Frank Epperson freeze soda overnight…",
+    "expand": "In 1905, 11-year-old Frank Epperson left soda powder and water outside with a stir stick — it froze. He sold 'Epsicles' at 12; patented as Popsicle in 1923.",
+    "cta": "Would you freeze your drink? →",
+    "share_text": "Popsicle: 11-year-old. 🍡\nTap to see…"
+  },
+  {
+    "drop": "Ketchup was a Chinese fish sauce. 🐟\n\nDid you know?",
+    "hook": "Tap to see 'kê-tsiap' become tomato…",
+    "expand": "17th-century Chinese 'kê-tsiap' was fermented fish sauce — British traders added mushrooms, then tomatoes in 1812. Heinz bottled it in 1876; now 650 million bottles yearly.",
+    "cta": "Would you fish your fries? →",
+    "share_text": "Ketchup: fish origin. 🐟\nTap to see…"
+  },
+  {
+    "drop": "The fortune cookie came from California. 🥠\n\nDid you know?",
+    "hook": "Tap to see Japanese tsujiura senbei in LA…",
+    "expand": "Japanese immigrant Makoto Hagiwara served 'tsujiura senbei' with predictions at San Francisco’s Golden Gate Park tea garden in 1914 — Chinese restaurants adopted them during WWII when Japanese were interned.",
+    "cta": "Would you predict dinner? →",
+    "share_text": "Fortune cookie: Cali fake. 🥠\nTap to see…"
+  },
+  {
+    "drop": "Champagne was a mistake in cold cellars. 🥂\n\nDid you know?",
+    "hook": "Tap to see Dom Pérignon try to stop bubbles…",
+    "expand": "In 1660s, monk Dom Pérignon tried to remove bubbles from wine — cold Champagne winters paused fermentation, restarting in spring. He later perfected the cork; Veuve Clicquot invented riddling in 1816.",
+    "cta": "Would you cork a mistake? →",
+    "share_text": "Champagne: bubble fail. 🥂\nTap to see…"
+  },
+  {
+    "drop": "The ice cream cone debuted at a fair. 🍦\n\nDid you know?",
+    "hook": "Tap to see 1904 St. Louis waffle rescue…",
+    "expand": "At the 1904 St. Louis World’s Fair, ice cream vendor Ernest Hamwi ran out of dishes — waffle vendor next door rolled a waffle into a cone. 50 million scoops sold in 6 months.",
+    "cta": "Would you roll your plate? →",
+    "share_text": "Cone: 1904 fair. 🍦\nTap to see…"
+  },
+  {
+    "drop": "The Caesar salad was born in Tijuana. 🥗\n\nDid you know?",
+    "hook": "Tap to see 1924 4th of July rush…",
+    "expand": "On July 4, 1924, Caesar Cardini’s Tijuana restaurant ran out of ingredients — he tossed romaine, egg, Worcestershire, and parmesan tableside for Hollywood stars fleeing Prohibition. Anchovies were added later.",
+    "cta": "Would you salad a crisis? →",
+    "share_text": "Caesar: Tijuana rush. 🥗\nTap to see…"
+  },
+  {
+    "drop": "The microwave oven came from radar tech. 📡\n\nDid you know?",
+    "hook": "Tap to see Percy Spencer melt chocolate…",
+    "expand": "In 1945, engineer Percy Spencer noticed a radar magnetron melted chocolate in his pocket — he tested popcorn, then eggs. Raytheon’s 1947 Radarange was 1.8 m tall, 340 kg, $5,000.",
+    "cta": "Would you pocket-cook? →",
+    "share_text": "Microwave: radar melt. 📡\nTap to see…"
+  },
+  {
+    "drop": "The espresso machine was built for speed. ☕\n\nDid you know?",
+    "hook": "Tap to see 1901 Turin factory breaks…",
+    "expand": "Luigi Bezzera patented a steam-pressure machine in 1901 to cut worker coffee breaks — 'espresso' means 'pressed out.' Achille Gaggia added the crema lever in 1947.",
+    "cta": "Would you rush your coffee? →",
+    "share_text": "Espresso: speed machine. ☕\nTap to see…"
+  },
+  {
+    "drop": "The TV dinner was born from Thanksgiving leftovers. 📺\n\nDid you know?",
+    "hook": "Tap to see 1953 Swanson 5,000 turkeys…",
+    "expand": "In 1953, Swanson had 260 tons of leftover Thanksgiving turkey — salesman Gerry Thomas suggested aluminum trays with peas and potatoes. 10 million sold in year one.",
+    "cta": "Would you tray your turkey? →",
+    "share_text": "TV dinner: turkey surplus. 📺\nTap to see…"
+  },
+  {
+    "drop": "The Reuben sandwich started in Omaha poker. 🃏\n\nDid you know?",
+    "hook": "Tap to see 1920s late-night corned beef…",
+    "expand": "During 1920s weekly poker games at Omaha’s Blackstone Hotel, Reuben Kulakofsky requested corned beef, sauerkraut, and Swiss on rye — chef added Thousand Island. It won a 1956 national contest.",
+    "cta": "Would you bet on a sandwich? →",
+    "share_text": "Reuben: poker origin. 🃏\nTap to see…"
+  },
+  {
+    "drop": "The margarita was mixed for a dancer. 🍹\n\nDid you know?",
+    "hook": "Tap to see 1938 Tijuana allergy fix…",
+    "expand": "In 1938, Tijuana bartender Carlos Herrera created the tequila drink for dancer Marjorie King — she was allergic to all spirits except tequila. He rimmed it with salt; named it after her Spanish name, Margarita.",
+    "cta": "Would you salt for love? →",
+    "share_text": "Margarita: dancer cure. 🍹\nTap to see…"
+  },
+  {
+    "drop": "The Bloody Mary cured hangovers in Paris. 🍅\n\nDid you know?",
+    "hook": "Tap to see 1921 Harry’s Bar tomato mix…",
+    "expand": "In 1921, Paris bartender Fernand Petiot mixed vodka and tomato juice at Harry’s New York Bar — American tourists called it 'Bloody Mary' after Queen Mary I. Worcestershire was added in NYC.",
+    "cta": "Would you tomato your hangover? →",
+    "share_text": "Bloody Mary: Paris cure. 🍅\nTap to see…"
+  },
+  {
+    "drop": "The cronuts line wrapped NYC blocks. 🥐🍩\n\nDid you know?",
+    "hook": "Tap to see 2013 Dominique Ansel queue…",
+    "expand": "On May 10, 2013, Dominique Ansel Bakery in NYC debuted the croissant-donut hybrid — lines formed at 6 AM, scalpers sold them for $100. Trademarked 'Cronut,' it sparked global pastry wars.",
+    "cta": "Would you queue at dawn? →",
+    "share_text": "Cronut: 2013 NYC madness. 🥐🍩\nTap to see…"
+  },
+  {
+    "drop": "The first energy drink was Japanese for workers. ⚡\n\nDid you know?",
+    "hook": "Tap to see 1962 Lipovitan factory fuel…",
+    "expand": "In 1962, Taisho Pharmaceuticals launched Lipovitan-D for Japanese factory workers — taurine and caffeine mix. Red Bull copied it in 1987; now 8 billion cans yearly.",
+    "cta": "Would you taurine your shift? →",
+    "share_text": "Energy drink: Japan 1962. ⚡\nTap to see…"
+  },
+  {
+    "drop": "The avocado toast craze started in Sydney. 🥑\n\nDid you know?",
+    "hook": "Tap to see 1993 Bills cafe smash…",
+    "expand": "In 1993, Sydney chef Bill Granger mashed avocado on sourdough at Bills cafe — it became a brunch staple. By 2017, millennials were blamed for housing crises over $19 toast.",
+    "cta": "Would you smash for brunch? →",
+    "share_text": "Avo toast: Sydney 1993. 🥑\nTap to see…"
+  },
+  {
+    "drop": "The poke bowl came from Hawaiian fishermen. 🍚\n\nDid you know?",
+    "hook": "Tap to see 1970s reef lunch scraps…",
+    "expand": "Hawaiian fishermen cut reef fish scraps with sea salt, seaweed, and kukui nuts — eaten on the boat. In 1970s, it moved to plates; Sam Choy added sushi rice in 1991.",
+    "cta": "Would you eat boat scraps? →",
+    "share_text": "Poke: fisherman lunch. 🍚\nTap to see…"
+  },
+  {
+    "drop": "The flat white was born in Sydney vs Auckland war. ☕\n\nDid you know?",
+    "hook": "Tap to see 1980s antipodean espresso fight…",
+    "expand": "Sydney’s Moors Espresso Bar claimed the microfoam drink in 1985; Auckland’s DKD Cafe said 1989. Both sued Starbucks in 2014 for trademark. Australia won the court, but NZ won the taste.",
+    "cta": "Would you fight for foam? →",
+    "share_text": "Flat white: Sydney vs NZ. ☕\nTap to see…"
+  },
+  {
+    "drop": "The rainbow bagel went viral in Brooklyn. 🌈\n\nDid you know?",
+    "hook": "Tap to see 2015 The Bagel Store food dye…",
+    "expand": "In 2015, Scot Rossillo of The Bagel Store in Brooklyn dyed dough in 7 colors, twisted it, and filled with funfetti cream cheese — Instagram lines formed at 5 AM. 100,000 sold in months.",
+    "cta": "Would you dye your breakfast? →",
+    "share_text": "Rainbow bagel: Brooklyn 2015. 🌈\nTap to see…"
+  },
+  {
+    "drop": "The cloud egg exploded on Instagram 2017. ☁️\n\nDid you know?",
+    "hook": "Tap to see whipped whites go viral…",
+    "expand": "In 2017, food bloggers whipped egg whites to stiff peaks, baked them, and added yolks — #cloudeggs hit 100,000 posts in weeks. Roots trace to 17th-century French meringue.",
+    "cta": "Would you whip breakfast? →",
+    "share_text": "Cloud egg: 2017 Insta. ☁️\nTap to see…"
+  },
+  {
+    "drop": "The charcoal latte trended in London. ⚫\n\nDid you know?",
+    "hook": "Tap to see 2016 black detox coffee…",
+    "expand": "In 2016, London’s Farm Girl cafe added activated charcoal to lattes for 'detox' — the black drink went viral on Instagram. Charcoal dates to 1550 BC Egyptian medicine.",
+    "cta": "Would you drink black milk? →",
+    "share_text": "Charcoal latte: London 2016. ⚫\nTap to see…"
+  },
+  {
+    "drop": "The internet began as a 1969 military message. 🌐\n\nDid you know?",
+    "hook": "Tap to see UCLA send 'LO'…",
+    "expand": "On October 29, 1969, UCLA student Charley Kline sent the first ARPANET message to Stanford — the system crashed after 'L' and 'O'. The full 'LOGIN' worked an hour later; four nodes grew to billions.",
+    "cta": "Would you crash the future? →",
+    "share_text": "Internet: 1969 'LO'. 🌐\nTap to see…"
+  },
+  {
+    "drop": "The smartphone was born in 1992 IBM lab. 📱\n\nDid you know?",
+    "hook": "Tap to see 'Simon' make a call…",
+    "expand": "IBM’s Simon Personal Communicator debuted August 16, 1994 — it called, emailed, faxed, and had a touchscreen. Cost $1,100 with contract; 50,000 sold before iPhone stole the crown.",
+    "cta": "Would you pay $1,100 for email? →",
+    "share_text": "Smartphone: IBM 1992. 📱\nTap to see…"
+  },
+  {
+    "drop": "The selfie stick was patented in 1995 Japan. 🤳\n\nDid you know?",
+    "hook": "Tap to see Hiroshi Ueda’s 'telescoping extender'…",
+    "expand": "Hiroshi Ueda patented the 'selfie stick' in 1995 after struggling to fit in family photos — Japan ignored it. It exploded in 2014; Time called it one of the worst inventions.",
+    "cta": "Would you extend your arm? →",
+    "share_text": "Selfie stick: Japan 1995. 🤳\nTap to see…"
+  },
+  {
+    "drop": "The Post-it Note came from failed glue. 🟨\n\nDid you know?",
+    "hook": "Tap to see 3M’s weak adhesive…",
+    "expand": "In 1968, 3M scientist Spencer Silver made a low-tack adhesive — useless until 1974 when Art Fry used it for hymn bookmarks. Launched in 1980; 50 billion sold yearly.",
+    "cta": "Would you sell weak glue? →",
+    "share_text": "Post-it: failed glue. 🟨\nTap to see…"
+  },
+  {
+    "drop": "The barcode was sketched on a Florida beach. 🛒\n\nDid you know?",
+    "hook": "Tap to see Norman Woodland draw sand circles…",
+    "expand": "In 1949, Norman Woodland drew circles in Miami sand to encode data — patented the linear barcode in 1952. First scan: Wrigley’s gum, June 26, 1974, in Ohio.",
+    "cta": "Would you scan gum? →",
+    "share_text": "Barcode: beach sand. 🛒\nTap to see…"
+  },
+  {
+    "drop": "The microwave popcorn bag was born in 1981. 🍿\n\nDid you know?",
+    "hook": "Tap to see Pillsbury’s metallized film…",
+    "expand": "Pillsbury engineer David Andreas tested microwave popcorn in 1979 — the 1981 bag used metallized film to reflect heat. 1 billion bags sold yearly; butter smell fills labs.",
+    "cta": "Would you bag your pop? →",
+    "share_text": "Microwave popcorn: 1981 bag. 🍿\nTap to see…"
+  },
+  {
+    "drop": "The USB stick replaced floppy disks in 2000. 💾\n\nDid you know?",
+    "hook": "Tap to see Trek 2000’s ThumbDrive…",
+    "expand": "Singapore’s Trek 2000 launched the 8 MB ThumbDrive in 2000 — no drivers needed. IBM sold the first 1 GB in 2004; now 1 TB fits in your pocket.",
+    "cta": "Would you thumb your data? →",
+    "share_text": "USB: 2000 Singapore. 💾\nTap to see…"
+  },
+  {
+    "drop": "The emoji was born in 1999 Japan. 😊\n\nDid you know?",
+    "hook": "Tap to see Shigetaka Kurita’s 176 pixels…",
+    "expand": "NTT DoCoMo designer Shigetaka Kurita created 176 12×12 pixel emojis in 1999 — inspired by manga. Apple added them to iPhone in 2011; now 3,782 official.",
+    "cta": "Would you pixel your feelings? →",
+    "share_text": "Emoji: Japan 1999. 😊\nTap to see…"
+  },
+  {
+    "drop": "The GPS started as Navy satellites in 1978. 🛰️\n\nDid you know?",
+    "hook": "Tap to see 24 birds guide ships…",
+    "expand": "The U.S. Navy launched the first GPS satellite in 1978 — 24 satellites by 1993 gave 10-meter accuracy. Reagan opened it to civilians after Korean Air 007 was shot down in 1983.",
+    "cta": "Would you trust 24 birds? →",
+    "share_text": "GPS: Navy 1978. 🛰️\nTap to see…"
+  },
+  {
+    "drop": "The MP3 was born in Germany 1987. 🎵\n\nDid you know?",
+    "hook": "Tap to see Fraunhofer shrink songs…",
+    "expand": "Fraunhofer Institute’s MP3 compressed 'Suzanne' by 12:1 in 1987 — a 40 MB song became 3 MB. Napster exploded in 1999; 1 billion players sold.",
+    "cta": "Would you shrink music? →",
+    "share_text": "MP3: Germany 1987. 🎵\nTap to see…"
+  },
+  {
+    "drop": "The laptop was born in 1981 for astronauts. 💻\n\nDid you know?",
+    "hook": "Tap to see Osborne 1 weigh 11 kg…",
+    "expand": "The 1981 Osborne 1 had a 5-inch screen, 64 KB RAM, and cost $1,795 — NASA used it on shuttles. It folded like a suitcase; 10,000 sold before bankruptcy.",
+    "cta": "Would you space-lap? →",
+    "share_text": "Laptop: 1981 NASA. 💻\nTap to see…"
+  },
+  {
+    "drop": "The drone started as WWI target practice. 🚁\n\nDid you know?",
+    "hook": "Tap to see 1917 'Aerial Target' fly…",
+    "expand": "Britain’s 1917 'Aerial Target' radio-controlled plane trained anti-aircraft gunners — de Havilland built 100. DJI’s 2013 Phantom made consumer drones; 5 million fly today.",
+    "cta": "Would you shoot a robot? →",
+    "share_text": "Drone: WWI target. 🚁\nTap to see…"
+  },
+  {
+    "drop": "The electric car was born in 1832 Scotland. ⚡\n\nDid you know?",
+    "hook": "Tap to see Robert Anderson’s non-rechargeable…",
+    "expand": "Robert Anderson’s 1832 carriage used non-rechargeable cells — top speed 6 km/h. GM’s 1996 EV1 leased 1,117; Tesla Roadster revived it in 2008.",
+    "cta": "Would you drive 6 km/h? →",
+    "share_text": "EV: Scotland 1832. ⚡\nTap to see…"
+  },
+  {
+    "drop": "The credit card started as cardboard in 1950. 💳\n\nDid you know?",
+    "hook": "Tap to see Diners Club’s 200 NYC charge…",
+    "expand": "Frank McNamara forgot his wallet at a 1950 NYC dinner — he launched Diners Club cardboard card for 200 friends. Accepted at 14 restaurants; Visa plastic came in 1958.",
+    "cta": "Would you forget your wallet? →",
+    "share_text": "Credit card: 1950 dinner. 💳\nTap to see…"
+  },
+  {
+    "drop": "The ATM was born in 1967 London. 💰\n\nDid you know?",
+    "hook": "Tap to see John Shepherd-Barron’s chocolate PIN…",
+    "expand": "Barclays installed the first ATM on June 27, 1967 — John Shepherd-Barron used a 6-digit PIN inspired by chocolate bars. First withdrawal: £10 by Reg Varney.",
+    "cta": "Would you PIN chocolate? →",
+    "share_text": "ATM: 1967 London. 💰\nTap to see…"
+  },
+  {
+    "drop": "The roller coaster was built for Russian ice slides. 🎢\n\nDid you know?",
+    "hook": "Tap to see 17th-century St. Petersburg wheels…",
+    "expand": "17th-century Russia built 70-foot ice slides with wheeled sleds — France added rails in 1817. LaMarcus Thompson’s 1884 Coney Island Switchback charged 5¢ a ride.",
+    "cta": "Would you wheel ice? →",
+    "share_text": "Coaster: Russian ice. 🎢\nTap to see…"
+  },
+  {
+    "drop": "The bikini was named after a nuclear test. 👙\n\nDid you know?",
+    "hook": "Tap to see 1946 Bikini Atoll blast…",
+    "expand": "Louis Réard unveiled the two-piece on July 5, 1946 — four days after U.S. nuclear tests at Bikini Atoll. He predicted it would be 'explosive'; banned in Catholic countries.",
+    "cta": "Would you nuke a swimsuit? →",
+    "share_text": "Bikini: atomic name. 👙\nTap to see…"
+  },
+  {
+    "drop": "The high-five started in 1977 baseball. ✋\n\nDid you know?",
+    "hook": "Tap to see Dusty Baker slap Glenn Burke…",
+    "expand": "On October 2, 1977, Dodgers’ Glenn Burke raised his hand — teammate Dusty Baker slapped it after a home run. Burke, gay in secret, never profited; died in 1995.",
+    "cta": "Would you slap a homer? →",
+    "share_text": "High-five: 1977 Dodgers. ✋\nTap to see…"
+  },
+  {
+    "drop": "The fidget spinner was for ADHD in 1993. 🌀\n\nDid you know?",
+    "hook": "Tap to see Catherine Hettinger’s patent expire…",
+    "expand": "Catherine Hettinger patented the spinner in 1993 for her daughter’s myositis — couldn’t afford $400 renewal in 2005. 2017 craze made $500 million; she earned nothing.",
+    "cta": "Would you spin for calm? →",
+    "share_text": "Spinner: 1993 ADHD. 🌀\nTap to see…"
+  },
+  {
+    "drop": "The hashtag was born on Twitter in 2007. #\n\nDid you know?",
+    "hook": "Tap to see Chris Messina’s 'channel' idea…",
+    "expand": "On August 23, 2007, Chris Messina tweeted '#barcamp' to group messages — Twitter ignored it. By 2009, hashtags were clickable; now 125 million daily.",
+    "cta": "Would you pound your tweet? →",
+    "share_text": "Hashtag: 2007 Twitter. #\nTap to see…"
+  },
+  {
+    "drop": "The GIF was created in 1987 for slow modems. 🎞️\n\nDid you know?",
+    "hook": "Tap to see CompuServe’s 256-color loop…",
+    "expand": "Steve Wilhite’s 1987 GIF compressed images for 300-baud modems — 256 colors, 1-bit animation. Pronounced 'jif'; won a lifetime Webby in 2013.",
+    "cta": "Would you loop 1987? →",
+    "share_text": "GIF: 1987 modem. 🎞️\nTap to see…"
+  },
+  {
+    "drop": "The meme started as Dawkins’ gene idea. 🧬\n\nDid you know?",
+    "hook": "Tap to see 1976 'cultural gene'…",
+    "expand": "Richard Dawkins coined 'meme' in 1976 as a cultural idea that replicates like genes — from Greek 'mimeme'. First internet meme: 1996 'Dancing Baby'.",
+    "cta": "Would you gene a joke? →",
+    "share_text": "Meme: 1976 Dawkins. 🧬\nTap to see…"
+  },
+  {
+    "drop": "The QR code was born in 1994 Japan. 🔳\n\nDid you know?",
+    "hook": "Tap to see Denso Wave track car parts…",
+    "expand": "Denso Wave’s Masahiro Hara created the QR code in 1994 to track Toyota parts — 7,000 characters vs barcode’s 20. Released patent-free; now on graves.",
+    "cta": "Would you square your data? →",
+    "share_text": "QR: 1994 Toyota. 🔳\nTap to see…"
+  },
+  {
+    "drop": "The electric guitar was born in 1931 jazz. 🎸\n\nDid you know?",
+    "hook": "Tap to see Rickenbacker’s 'Frying Pan'…",
+    "expand": "Adolph Rickenbacker’s 1931 'Frying Pan' lap steel used a horseshoe magnet — jazz bands needed volume. Leo Fender’s 1950 Telecaster sold 1 million by 1970.",
+    "cta": "Would you fry your strings? →",
+    "share_text": "E-guitar: 1931 jazz. 🎸\nTap to see…"
+  },
+  {
+    "drop": "The walkman was Sony’s 1979 press-play. 🎧\n\nDid you know?",
+    "hook": "Tap to see Akio Morita ditch record…",
+    "expand": "Sony co-founder Akio Morita wanted to listen to opera on flights — the 1979 TPS-L2 had no record, just play. 400 million sold; killed mixtapes.",
+    "cta": "Would you walk your music? →",
+    "share_text": "Walkman: 1979 Sony. 🎧\nTap to see…"
+  },
+  {
+    "drop": "The Rubik’s Cube was born in 1974 Hungary. 🧊\n\nDid you know?",
+    "hook": "Tap to see Ernő Rubik’s architecture lesson…",
+    "expand": "Architecture professor Ernő Rubik built the cube in 1974 to teach 3D movement — patented in 1975. 450 million sold; fastest solve: 3.13 seconds.",
+    "cta": "Would you cube your class? →",
+    "share_text": "Rubik: 1974 Hungary. 🧊\nTap to see…"
+  },
+  {
+    "drop": "The lava lamp was born in 1963 pub. 🌋\n\nDid you know?",
+    "hook": "Tap to see Edward Walker’s egg timer…",
+    "expand": "Accountant Edward Walker saw a pub egg timer with wax in liquid — patented the Astro Lamp in 1963. 7 million sold; Mathmos still makes them in UK.",
+    "cta": "Would you lamp your eggs? →",
+    "share_text": "Lava lamp: 1963 pub. 🌋\nTap to see…"
+  },
+  {
+    "drop": "The slinky was a 1943 Navy spring flop. 🌀\n\nDid you know?",
+    "hook": "Tap to see Richard James’ tension spring walk…",
+    "expand": "Engineer Richard James’s 1943 torsion spring fell off a shelf and 'walked' — wife Betty named it Slinky. 300 million sold; still made in USA.",
+    "cta": "Would you spring your stairs? →",
+    "share_text": "Slinky: 1943 Navy. 🌀\nTap to see…"
+  },
+  {
+    "drop": "The hula hoop was revived from 1958 Australia. 🟡\n\nDid you know?",
+    "hook": "Tap to see Wham-O bamboo toy…",
+    "expand": "Australian kids used bamboo hoops in gym — Wham-O’s 1958 plastic version sold 100 million in 2 years. Richard Knerr saw it in Melbourne.",
+    "cta": "Would you hoop for gym? →",
+    "share_text": "Hula hoop: 1958 revival. 🟡\nTap to see…"
+  },
+  {
+    "drop": "The pet rock made $15M in 1975. 🪨\n\nDid you know?",
+    "hook": "Tap to see Gary Dahl’s boxed stone…",
+    "expand": "Ad exec Gary Dahl sold smooth Mexican beach stones in cardboard boxes with straw in 1975 — $3.95 each. 1.5 million sold in 6 months; he retired.",
+    "cta": "Would you box a rock? →",
+    "share_text": "Pet rock: $15M stone. 🪨\nTap to see…"
+  },
+  {
+    "drop": "The teddy bear was born from a 1902 hunt mercy. 🧸\n\nDid you know?",
+    "hook": "Tap to see President Roosevelt spare a cub…",
+    "expand": "On a 1902 Mississippi bear hunt, Theodore Roosevelt refused to shoot a tied-up cub — cartoonist Clifford Berryman drew it; Morris Michtom’s wife sewed a plush 'Teddy’s Bear.' 500 sold in days.",
+    "cta": "Would you hug a spared cub? →",
+    "share_text": "Teddy bear: 1902 mercy. 🧸\nTap to see…"
+  },
+  {
+    "drop": "The bra was patented in 1914 NYC. 🎀\n\nDid you know?",
+    "hook": "Tap to see Mary Phelps Jacob burn corsets…",
+    "expand": "Socialite Mary Phelps Jacob bought a sheer dress in 1910 — corsets poked out. She tied handkerchiefs with ribbon; patented the 'Backless Brassiere' in 1914. Sold to Warner for $1,500.",
+    "cta": "Would you burn whalebone? →",
+    "share_text": "Bra: 1914 NYC. 🎀\nTap to see…"
+  },
+  {
+    "drop": "The zipper replaced buttons in 1917. 🪡\n\nDid you know?",
+    "hook": "Tap to see Gideon Sundback’s 'hookless fastener'…",
+    "expand": "Swedish-American Gideon Sundback perfected the zipper in 1913 — B.F. Goodrich used it on 1917 rubber boots, coining 'zip.' Took 20 years to reach clothes.",
+    "cta": "Would you zip your boots? →",
+    "share_text": "Zipper: 1917 boots. 🪡\nTap to see…"
+  },
+  {
+    "drop": "The traffic light was born in 1914 Detroit. 🚦\n\nDid you know?",
+    "hook": "Tap to see red-green manual switch…",
+    "expand": "On August 5, 1914, Cleveland installed the first electric traffic light — red and green with a buzzer. Detroit cop William Potts added yellow in 1920.",
+    "cta": "Would you buzz red? →",
+    "share_text": "Traffic light: 1914 Detroit. 🚦\nTap to see…"
+  },
+  {
+    "drop": "The fridge started as toxic gas boxes. ❄️\n\nDid you know?",
+    "hook": "Tap to see 1920s ammonia leaks…",
+    "expand": "Early 1900s fridges used ammonia, sulfur dioxide — leaks killed families. Einstein and Szilárd patented a safe absorption model in 1926; Freon arrived 1930.",
+    "cta": "Would you cool with poison? →",
+    "share_text": "Fridge: toxic start. ❄️\nTap to see…"
+  },
+  {
+    "drop": "The wristwatch was for WWI pilots. ⌚\n\nDid you know?",
+    "hook": "Tap to see 1915 trench pocket swaps…",
+    "expand": "Pocket watches were useless in trenches — 1915 pilots strapped them to wrists. Omega’s 1917 'wristlet' ads targeted women; men caught on post-war.",
+    "cta": "Would you strap time? →",
+    "share_text": "Wristwatch: WWI pilots. ⌚\nTap to see…"
+  },
+  {
+    "drop": "The ballpoint pen was born in 1938 Argentina. ✍️\n\nDid you know?",
+    "hook": "Tap to see László Bíró’s newspaper ink…",
+    "expand": "Journalist László Bíró hated fountain pen smudges — used quick-dry newspaper ink in a rotating ball. Patented in 1938; RAF used them in WWII for high-altitude writing.",
+    "cta": "Would you ball your ink? →",
+    "share_text": "Ballpoint: 1938 Argentina. ✍️\nTap to see…"
+  },
+  {
+    "drop": "The parking meter debuted in 1935 Oklahoma. 🅿️\n\nDid you know?",
+    "hook": "Tap to see Carl Magee coin the curb…",
+    "expand": "Reporter Carl Magee invented the meter to stop all-day parkers in Oklahoma City — July 16, 1935, first coin dropped. Nicknamed 'parking robots.'",
+    "cta": "Would you meter your spot? →",
+    "share_text": "Parking meter: 1935 OK. 🅿️\nTap to see…"
+  },
+  {
+    "drop": "The supermarket started in 1916 Memphis. 🛒\n\nDid you know?",
+    "hook": "Tap to see Piggly Wiggly’s self-service…",
+    "expand": "Clarence Saunders opened Piggly Wiggly on September 6, 1916 — customers picked items off shelves. Turnover pricing cut costs 30%; 2,600 stores by 1923.",
+    "cta": "Would you shop yourself? →",
+    "share_text": "Supermarket: 1916 Memphis. 🛒\nTap to see…"
+  },
+  {
+    "drop": "The drive-thru was born in 1947 California. 🚗\n\nDid you know?",
+    "hook": "Tap to see In-N-Out’s speaker box…",
+    "expand": "In-N-Out Burger opened America’s first drive-thru on July 18, 1947 — two-way speaker, no dining room. Baldwin Park location still serves double-doubles.",
+    "cta": "Would you eat in your car? →",
+    "share_text": "Drive-thru: 1947 Cali. 🚗\nTap to see…"
+  },
+  {
+    "drop": "The shopping cart was invented in 1937 Oklahoma. 🛍️\n\nDid you know?",
+    "hook": "Tap to see Sylvan Goldman’s folding chair…",
+    "expand": "Grocer Sylvan Goldman saw customers stop buying when arms tired — added wheels to folding chairs in 1937. Humble Market sold 6,000 carts in a year.",
+    "cta": "Would you wheel your groceries? →",
+    "share_text": "Shopping cart: 1937 OK. 🛍️\nTap to see…"
+  },
+  {
+    "drop": "The escalator started as a 1896 Coney Island ride. 🛗\n\nDid you know?",
+    "hook": "Tap to see Jesse Reno’s 'inclined elevator'…",
+    "expand": "Jesse Reno’s 1896 Coney Island 'inclined elevator' was a fair ride — 15° angle, 900 riders/hour. Otis added combs in 1920s; now 35,000 in Japan alone.",
+    "cta": "Would you ride for fun? →",
+    "share_text": "Escalator: 1896 Coney. 🛗\nTap to see…"
+  },
+  {
+    "drop": "The vending machine began in 1st-century Egypt. 🏛️\n\nDid you know?",
+    "hook": "Tap to see Heron’s holy water coin…",
+    "expand": "Heron of Alexandria’s 1st-century machine dispensed holy water for a coin — weight opened a valve. 1888 NYC sold Tutti-Frutti gum; Japan has 5.5 million today.",
+    "cta": "Would you coin for water? →",
+    "share_text": "Vending: 1st-century Egypt. 🏛️\nTap to see…"
+  },
+  {
+    "drop": "The karaoke machine was born in 1971 Japan. 🎤\n\nDid you know?",
+    "hook": "Tap to see Daisuke Inoue’s empty orchestra…",
+    "expand": "Musician Daisuke Inoue built the 8-track 'Juke 8' in 1971 for a colleague too shy to sing live — 'karaoke' means 'empty orchestra.' He never patented; earned $0.",
+    "cta": "Would you sing to tape? →",
+    "share_text": "Karaoke: 1971 Japan. 🎤\nTap to see…"
+  },
+  {
+    "drop": "The emoji keyboard started in 1997 Japan. ⌨️\n\nDid you know?",
+    "hook": "Tap to see NTT DoCoMo’s 172 hearts…",
+    "expand": "NTT DoCoMo added 172 emojis to pagers in 1997 — heart for 'love.' SoftBank had 900 by 2000; Unicode standardized 3,782 in 2023.",
+    "cta": "Would you heart your text? →",
+    "share_text": "Emoji keyboard: 1997 pager. ⌨️\nTap to see…"
+  },
+  {
+    "drop": "The ringtone industry peaked at $4B in 2007. 📱\n\nDid you know?",
+    "hook": "Tap to see 'Crazy Frog' top charts…",
+    "expand": "Jamster’s 'Crazy Frog' ringtone sold 20 million in 2005 — global ringtone sales hit $4 billion in 2007. iPhone killed it in 2008.",
+    "cta": "Would you pay for a frog? →",
+    "share_text": "Ringtone: $4B peak. 📱\nTap to see…"
+  },
+  {
+    "drop": "The selfie was taken in 1839 by a chemist. 📸\n\nDid you know?",
+    "hook": "Tap to see Robert Cornelius’ 15-min pose…",
+    "expand": "Philadelphia’s Robert Cornelius set up a daguerreotype in 1839 — removed lens cap, sat 15 minutes, replaced it. Wrote 'first light picture ever taken' on back.",
+    "cta": "Would you sit 15 min? →",
+    "share_text": "Selfie: 1839 chemist. 📸\nTap to see…"
+  },
+  {
+    "drop": "The hashtag began as IRC chat in 1988. #️⃣\n\nDid you know?",
+    "hook": "Tap to see 'channels' pre-Twitter…",
+    "expand": "Internet Relay Chat used '#' for channels in 1988 — Twitter’s Chris Messina proposed it in 2007. First trending: #sandiegofire in 2007.",
+    "cta": "Would you channel your chat? →",
+    "share_text": "Hashtag: 1988 IRC. #️⃣\nTap to see…"
+  },
+  {
+    "drop": "The podcast was born in 2004 RSS feeds. 🎙️\n\nDid you know?",
+    "hook": "Tap to see Adam Curry’s iPodder script…",
+    "expand": "MTV VJ Adam Curry wrote iPodder in 2004 to auto-download radio shows — 'pod' from iPod, 'cast' from broadcast. Apple added podcasts to iTunes in 2005.",
+    "cta": "Would you script your radio? →",
+    "share_text": "Podcast: 2004 RSS. 🎙️\nTap to see…"
+  },
+  {
+    "drop": "The livestream started in 1993 college dorm. 📡\n\nDid you know?",
+    "hook": "Tap to see 'Severe Tire Damage' band…",
+    "expand": "Xerox PARC’s MBone multicast let 'Severe Tire Damage' band livestream a 1993 concert — first internet live video. Rolling Stones followed in 1994.",
+    "cta": "Would you multicast your gig? →",
+    "share_text": "Livestream: 1993 dorm. 📡\nTap to see…"
+  },
+  {
+    "drop": "The emoji flag was proposed in 2016 Nigeria. 🇳🇬\n\nDid you know?",
+    "hook": "Tap to see Unicode add 200+ flags…",
+    "expand": "Unicode 9.0 added 200+ country flags in 2016 — Nigeria’s 🇳🇬 debuted June 21. First emoji flag proposal came from Oman in 2015.",
+    "cta": "Would you flag your emoji? →",
+    "share_text": "Emoji flag: 2016 Nigeria. 🇳🇬\nTap to see…"
+  },
+  {
+    "drop": "The blue check started as a 2009 Twitter hack. ✅\n\nDid you know?",
+    "hook": "Tap to see Tony La Russa sue Twitter…",
+    "expand": "Baseball manager Tony La Russa sued Twitter in 2009 over a fake account — Twitter launched verified badges June 6, 2009. Now costs $8/month.",
+    "cta": "Would you pay for blue? →",
+    "share_text": "Blue check: 2009 lawsuit. ✅\nTap to see…"
+  },
+  {
+    "drop": "The NFT was born in 2014 with Quantum. 🖼️\n\nDid you know?",
+    "hook": "Tap to see Kevin McCoy’s pixel art…",
+    "expand": "Artist Kevin McCoy minted 'Quantum' on Namecoin in 2014 — a pulsating octagon GIF. Sold for $1.4M in 2021; Beeple’s $69M followed.",
+    "cta": "Would you mint a GIF? →",
+    "share_text": "NFT: 2014 pixel. 🖼️\nTap to see…"
+  },
+  {
+    "drop": "The metaverse was coined in 1992 sci-fi. 🕶️\n\nDid you know?",
+    "hook": "Tap to see Neal Stephenson’s Snow Crash…",
+    "expand": "Neal Stephenson’s 1992 novel 'Snow Crash' described a 3D virtual world — 'meta' + 'universe.' Zuckerberg rebranded Facebook to Meta in 2021.",
+    "cta": "Would you live in Snow Crash? →",
+    "share_text": "Metaverse: 1992 book. 🕶️\nTap to see…"
+  },
+  {
+    "drop": "The electric kettle was born in 1891 Chicago. 🍵\n\nDid you know?",
+    "hook": "Tap to see 12-minute boil wait…",
+    "expand": "Carpenter Company’s 1891 kettle took 12 minutes to boil — heating coil in water. Russell Hobbs’ auto-shutoff came in 1955; now 1.7L in 3 min.",
+    "cta": "Would you wait 12 min? →",
+    "share_text": "Electric kettle: 1891 Chicago. 🍵\nTap to see…"
+  },
+  {
+    "drop": "The toaster popped in 1919 Minnesota. 🍞\n\nDid you know?",
+    "hook": "Tap to see Charles Strite’s timer…",
+    "expand": "Mechanic Charles Strite hated burnt cafeteria toast — built a pop-up timer in 1919. Toastmaster sold 1 million by 1930; sliced bread came 1928.",
+    "cta": "Would you time your toast? →",
+    "share_text": "Toaster: 1919 pop. 🍞\nTap to see…"
+  },
+  {
+    "drop": "The hair dryer started as a vacuum hose. 💨\n\nDid you know?",
+    "hook": "Tap to see 1920 salon hose hack…",
+    "expand": "Salons attached vacuum cleaner hoses to 1920 dryers — hot air blew out. Handheld 1,000W models arrived in 1951; now 1,875W max.",
+    "cta": "Would you vacuum your hair? →",
+    "share_text": "Hair dryer: vacuum hose. 💨\nTap to see…"
+  },
+  {
+    "drop": "The electric blanket was sewn in 1912 TB wards. 🛏️\n\nDid you know?",
+    "hook": "Tap to see Sidney Russell’s heated pad…",
+    "expand": "Dr. Sidney Russell invented the heated pad in 1912 for tuberculosis patients — full blankets came in 1921. Dreamland sold 1 million by 1938.",
+    "cta": "Would you sleep on wires? →",
+    "share_text": "Electric blanket: 1912 TB. 🛏️\nTap to see…"
+  },
+  {
+    "drop": "The garbage disposal was born in 1927 Wisconsin. 🗑️\n\nDid you know?",
+    "hook": "Tap to see John Hammes’ wife’s sink…",
+    "expand": "Architect John Hammes built the first in-sink disposer in 1927 for his wife — took 11 years to perfect. InSinkErator sold 1 million by 1950.",
+    "cta": "Would you grind your scraps? →",
+    "share_text": "Garbage disposal: 1927 sink. 🗑️\nTap to see…"
+  },
+  {
+    "drop": "The air fryer was invented in 2005 Netherlands. 🍟\n\nDid you know?",
+    "hook": "Tap to see Fred van der Weij’s turbo oven…",
+    "expand": "Philips inventor Fred van der Weij wanted healthier fries — 2005 Airfryer used rapid air tech. 100 million sold by 2023; TikTok fried everything.",
+    "cta": "Would you air your fries? →",
+    "share_text": "Air fryer: 2005 Dutch. 🍟\nTap to see…"
+  },
+  {
+    "drop": "The slow cooker started in 1940 beaneries. 🥘\n\nDid you know?",
+    "hook": "Tap to see Naxon’s Beanette for cholent…",
+    "expand": "Irving Naxon’s 1940 'Beanette' kept Jewish cholent warm for Sabbath — Rival bought it in 1970, rebranded Crock-Pot. 100 million sold.",
+    "cta": "Would you bean all day? →",
+    "share_text": "Slow cooker: 1940 Sabbath. 🥘\nTap to see…"
+  },
+  {
+    "drop": "The instant coffee was born in 1901 Japan. ☕\n\nDid you know?",
+    "hook": "Tap to see Satori Kato’s Chicago fair…",
+    "expand": "Chemist Satori Kato patented soluble coffee in 1901 — debuted at 1901 Pan-American Expo. Nestlé’s 1938 Nescafé sold 1 billion cups by 1945.",
+    "cta": "Would you dissolve your brew? →",
+    "share_text": "Instant coffee: 1901 Japan. ☕\nTap to see…"
+  },
+  {
+    "drop": "The energy bar started in 1986 marathon. 🏃\n\nDid you know?",
+    "hook": "Tap to see PowerBar’s Berkeley kitchen…",
+    "expand": "Marathoner Brian Maxwell made PowerBars in 1986 with wife Jennifer — 40g carbs, no melt. Sold to Nestlé for $375M in 2000.",
+    "cta": "Would you bar your run? →",
+    "share_text": "Energy bar: 1986 marathon. 🏃\nTap to see…"
+  },
+  {
+    "drop": "The reusable straw was born in 1888 paper. 🥤\n\nDid you know?",
+    "hook": "Tap to see Marvin Stone’s rye grass…",
+    "expand": "Marvin Stone wrapped paper around a pencil in 1888 — first paper straw. Plastic took over in 1960s; Starbucks banned them in 2018.",
+    "cta": "Would you paper your drink? →",
+    "share_text": "Reusable straw: 1888 paper. 🥤\nTap to see…"
+  },
+  {
+    "drop": "The metal water bottle revived in 2004 Sigg. 🍼\n\nDid you know?",
+    "hook": "Tap to see Swiss aluminum return…",
+    "expand": "Sigg’s 1908 aluminum bottles faded with plastic — 2004 relaunch with BPA-free lining sparked the trend. Hydro Flask followed in 2009.",
+    "cta": "Would you metal your water? →",
+    "share_text": "Metal bottle: 2004 revival. 🍼\nTap to see…"
+  },
+  {
+    "drop": "The fitness tracker started in 1965 Japan. 📟\n\nDid you know?",
+    "hook": "Tap to see Yamasa’s 10,000-step pedometer…",
+    "expand": "Yamasa’s 1965 'Manpo-kei' counted 10,000 steps — 'manpo' means 10,000. Fitbit launched in 2007; 150 million sold.",
+    "cta": "Would you count 10,000? →",
+    "share_text": "Fitness tracker: 1965 Japan. 📟\nTap to see…"
+  },
+  {
+    "drop": "The standing desk was used by da Vinci. 🖼️\n\nDid you know?",
+    "hook": "Tap to see Leonardo’s angled easel…",
+    "expand": "Leonardo da Vinci painted standing at angled tables — Hemingway and Churchill followed. Varidesk boomed in 2013; now $5B market.",
+    "cta": "Would you stand to work? →",
+    "share_text": "Standing desk: da Vinci. 🖼️\nTap to see…"
+  },
+  {
+    "drop": "The blue LED was born in 1993 Japan. 💡\n\nDid you know?",
+    "hook": "Tap to see Shuji Nakamura’s $200M fight…",
+    "expand": "Shuji Nakamura grew gallium nitride crystals in 1993 — first efficient blue LED. Won 2014 Nobel; sued employer for $200M bonus.",
+    "cta": "Would you blue your light? →",
+    "share_text": "Blue LED: 1993 Japan. 💡\nTap to see…"
+  },
+  {
+    "drop": "The e-ink screen started in 1997 MIT. 📖\n\nDid you know?",
+    "hook": "Tap to see Joe Jacobson’s paper dream…",
+    "expand": "MIT’s Joe Jacobson wanted reusable paper — 1997 e-ink microcapsules changed color with voltage. Kindle launched in 2007.",
+    "cta": "Would you ink your screen? →",
+    "share_text": "E-ink: 1997 MIT. 📖\nTap to see…"
+  },
+  {
+    "drop": "The wireless charger was born in 1894 Tesla. 🔋\n\nDid you know?",
+    "hook": "Tap to see Nikola’s resonant coils…",
+    "expand": "Nikola Tesla demonstrated wireless power in 1894 — resonant inductive coupling. Qi standard launched in 2008; Apple added in 2017.",
+    "cta": "Would you coil your power? →",
+    "share_text": "Wireless charge: 1894 Tesla. 🔋\nTap to see…"
+  }
+]
