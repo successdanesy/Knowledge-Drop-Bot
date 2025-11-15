@@ -10,7 +10,6 @@ export function startNotificationScheduler(bot) {
   console.log("📅 Starting notification scheduler...");
 
   // Run every minute to check if we need to send notifications
-  // In production, you'd optimize this
   const job = cron.schedule("*/1 * * * *", async () => {
     try {
       const now = new Date();
@@ -25,7 +24,7 @@ export function startNotificationScheduler(bot) {
 
         for (const user of usersToNotify) {
           try {
-            // Update streak
+            // Update streak (ONLY ONCE PER DAY - Option B)
             await updateStreak(user.telegramId);
 
             // Get random fact

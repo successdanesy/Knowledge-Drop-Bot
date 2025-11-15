@@ -3,7 +3,6 @@ import { formatBadgeName } from "../services/streakService.js";
 export function formatFactMessage(fact) {
   return `
 💡 *${fact.drop}*
-_${fact.hook}_
 
 ${fact.expand}
 

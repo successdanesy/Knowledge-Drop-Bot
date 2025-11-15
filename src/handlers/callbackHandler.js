@@ -5,7 +5,7 @@ import {
 } from "../services/userService.js";
 import { getRandomFactFromTheme } from "../services/factService.js";
 import { formatFactMessage } from "../utils/formatters.js";
-import { updateStreak } from "../services/streakService.js";
+import { updateStreakOnce } from "../services/streakService.js";
 import { handleNotificationPreferences, handleNotificationTime } from "./notificationHandler.js";
 
 export async function callbackHandler(bot, query) {
@@ -51,8 +51,10 @@ export async function callbackHandler(bot, query) {
 
 async function handleThemeSelection(bot, chatId, userId, themeId, queryId) {
   try {
-    // Update streak when user views a fact
-    await updateStreak(userId);
+    // Update streak ONLY ONCE PER DAY (Option B)
+    await updateStreakOnce(userId);
+    
+    // Always increment facts viewed (no limit)
     await incrementFactsViewed(userId);
 
     const fact = getRandomFactFromTheme(themeId);

@@ -1,6 +1,11 @@
 import { User } from "../database/userSchema.js";
 
-export async function updateStreak(telegramId) {
+/**
+ * Option B: Streak increases ONLY ONCE per day max
+ * No matter how many facts they view, they get +1 per day
+ * (Like Duolingo - one point per day)
+ */
+export async function updateStreakOnce(telegramId) {
   try {
     const user = await User.findOne({ telegramId });
 
@@ -17,7 +22,7 @@ export async function updateStreak(telegramId) {
       lastViewedDate.setHours(0, 0, 0, 0);
     }
 
-    // If they viewed today, streak is already active
+    // If they viewed today, streak already increased - don't do it again
     if (lastViewedDate && lastViewedDate.getTime() === today.getTime()) {
       return user; // Same day, no change
     }
@@ -29,14 +34,17 @@ export async function updateStreak(telegramId) {
     if (lastViewedDate && lastViewedDate.getTime() === yesterday.getTime()) {
       // They viewed yesterday, continue streak
       user.stats.currentStreak += 1;
+      console.log(`🔥 Streak continued for ${telegramId}: ${user.stats.currentStreak} days`);
     } else {
       // Break in streak, start new one
       user.stats.currentStreak = 1;
+      console.log(`🔄 Streak reset for ${telegramId}: Starting fresh`);
     }
 
     // Update longest streak
     if (user.stats.currentStreak > user.stats.longestStreak) {
       user.stats.longestStreak = user.stats.currentStreak;
+      console.log(`🏆 New personal best for ${telegramId}: ${user.stats.longestStreak} days`);
     }
 
     user.stats.lastViewedDate = Date.now();
@@ -49,9 +57,17 @@ export async function updateStreak(telegramId) {
 
     return user;
   } catch (error) {
-    console.error("Error updating streak:", error);
+    console.error("Error updating streak once:", error);
     throw error;
   }
+}
+
+/**
+ * Legacy function - kept for backward compatibility
+ * Now just calls updateStreakOnce to enforce Option B everywhere
+ */
+export async function updateStreak(telegramId) {
+  return updateStreakOnce(telegramId);
 }
 
 export async function checkAndAwardBadges(telegramId, user) {
@@ -61,26 +77,31 @@ export async function checkAndAwardBadges(telegramId, user) {
     // 🔥 Streak Leader - 7 days in a row
     if (user.stats.currentStreak === 7 && !user.badges?.includes("streak_leader")) {
       newBadges.push("streak_leader");
+      console.log(`🏅 Badge earned for ${telegramId}: Streak Leader!`);
     }
 
     // 🏆 Knowledge Seeker - 50 facts viewed
     if (user.stats.factsViewed >= 50 && !user.badges?.includes("knowledge_seeker")) {
       newBadges.push("knowledge_seeker");
+      console.log(`🏅 Badge earned for ${telegramId}: Knowledge Seeker!`);
     }
 
     // ⭐ Collector - 20 facts saved
     if (user.stats.factsSaved >= 20 && !user.badges?.includes("collector")) {
       newBadges.push("collector");
+      console.log(`🏅 Badge earned for ${telegramId}: Collector!`);
     }
 
     // 📚 Historian - 100 facts viewed
     if (user.stats.factsViewed >= 100 && !user.badges?.includes("historian")) {
       newBadges.push("historian");
+      console.log(`🏅 Badge earned for ${telegramId}: Historian!`);
     }
 
     // 🎯 Perfect Week - 7 days streak
     if (user.stats.currentStreak === 7 && !user.badges?.includes("perfect_week")) {
       newBadges.push("perfect_week");
+      console.log(`🏅 Badge earned for ${telegramId}: Perfect Week!`);
     }
 
     if (newBadges.length > 0) {

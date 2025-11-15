@@ -5,7 +5,7 @@ import { startHandler } from "./handlers/startHandler.js";
 import { callbackHandler } from "./handlers/callbackHandler.js";
 import { viewSavedHandler } from "./handlers/factHandler.js";
 import { statsHandler } from "./handlers/startHandler.js";
-import { startNotificationScheduler } from "./scheduler/notificationScheduler.js";
+import { startNotificationScheduler } from "./services/notificationScheduler.js";
 
 
 dotenv.config();
