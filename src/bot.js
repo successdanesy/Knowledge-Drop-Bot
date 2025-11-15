@@ -5,6 +5,8 @@ import { startHandler } from "./handlers/startHandler.js";
 import { callbackHandler } from "./handlers/callbackHandler.js";
 import { viewSavedHandler } from "./handlers/factHandler.js";
 import { statsHandler } from "./handlers/startHandler.js";
+import { startNotificationScheduler } from "./scheduler/notificationScheduler.js";
+
 
 dotenv.config();
 
@@ -12,6 +14,8 @@ const bot = new TelegramBot(process.env.BOT_TOKEN, { polling: true });
 
 // Connect to MongoDB Atlas
 connectDB();
+// Start the notification scheduler
+startNotificationScheduler(bot);
 
 // ============================================
 // ERROR HANDLING - Suppress timeout errors
@@ -43,6 +47,14 @@ bot.onText(/\/saved/, (msg) => viewSavedHandler(bot, msg));
 bot.onText(/\/stats/, (msg) => statsHandler(bot, msg));
 
 bot.on("callback_query", (query) => callbackHandler(bot, query));
+
+// ============================================
+// BOT STARTUP LOGS
+// ============================================
+process.on("SIGINT", () => {
+  console.log("\n🛑 Shutting down...");
+  process.exit(0);
+});
 
 console.log("🤖 Knowledge Drop Bot started successfully!");
 console.log("✨ Bot is ready to receive messages...\n");

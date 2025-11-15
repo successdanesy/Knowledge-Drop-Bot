@@ -1,5 +1,6 @@
 import { getOrCreateUser, getUserStats } from "../services/userService.js";
-import { formatUserStats } from "../utils/formatters.js";
+import { formatUserStats, formatBadges } from "../utils/formatters.js";
+import { handleNotificationPreferences } from "./notificationHandler.js";
 
 export async function startHandler(bot, msg) {
   try {
@@ -31,6 +32,7 @@ I'll share fascinating facts from around the world. Choose a theme or try random
             { text: "🎲 Random Mix", callback_data: "theme:random_mix" },
           ],
           [{ text: "⭐ My Saved Facts", callback_data: "action:view_saved" }],
+          [{ text: "🔔 Notifications", callback_data: "action:notif_prefs" }],
         ],
       },
     });
@@ -48,7 +50,14 @@ export async function statsHandler(bot, msg) {
     const stats = await getUserStats(msg.from.id);
     const statsMessage = formatUserStats(stats);
 
-    await bot.sendMessage(chatId, statsMessage, {
+    // Get badges if any
+    const { User } = await import("../database/userSchema.js");
+    const user = await User.findOne({ telegramId: msg.from.id });
+    const badgesText = user?.badges?.length > 0 ? formatBadges(user.badges) : "";
+
+    const fullMessage = badgesText ? `${statsMessage}\n\n${badgesText}` : statsMessage;
+
+    await bot.sendMessage(chatId, fullMessage, {
       parse_mode: "Markdown",
       reply_markup: {
         inline_keyboard: [[{ text: "🏠 Home", callback_data: "action:home" }]],

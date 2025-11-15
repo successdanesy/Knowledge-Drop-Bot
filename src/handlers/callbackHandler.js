@@ -5,6 +5,8 @@ import {
 } from "../services/userService.js";
 import { getRandomFactFromTheme } from "../services/factService.js";
 import { formatFactMessage } from "../utils/formatters.js";
+import { updateStreak } from "../services/streakService.js";
+import { handleNotificationPreferences, handleNotificationTime } from "./notificationHandler.js";
 
 export async function callbackHandler(bot, query) {
   const chatId = query.message.chat.id;
@@ -24,33 +26,33 @@ export async function callbackHandler(bot, query) {
       } else if (actionType === "home") {
         const { startHandler } = await import("./startHandler.js");
         await startHandler(bot, { chat: { id: chatId }, from: query.from });
+      } else if (actionType === "stats") {
+        const { statsHandler } = await import("./startHandler.js");
+        await statsHandler(bot, { chat: { id: chatId }, from: query.from });
+      } else if (actionType === "notif_prefs") {
+        await handleNotificationPreferences(bot, chatId, userId);
       }
+    } else if (action.startsWith("notif:")) {
+      const time = action.split(":")[1] + ":" + action.split(":")[2];
+      await handleNotificationTime(bot, chatId, userId, time);
     } else if (action.startsWith("save:")) {
       const [, themeId, factHash] = action.split(":");
       await handleSaveFact(bot, chatId, userId, themeId, factHash, query.id);
     }
 
-    // Answer callback query to remove loading state
-    await bot.answerCallbackQuery(query.id, {
-      text: "",
-      show_alert: false,
-    }).catch(() => {
-      // Silently ignore if query already answered or timed out
-    });
-
+    await bot
+      .answerCallbackQuery(query.id, { text: "", show_alert: false })
+      .catch(() => {});
   } catch (error) {
     console.error("Error in callbackHandler:", error.message);
-    bot.answerCallbackQuery(query.id, {
-      text: "❌ An error occurred",
-      show_alert: true,
-    }).catch(() => {
-      // Silently ignore if query already answered
-    });
+    bot.answerCallbackQuery(query.id, { text: "❌ Error", show_alert: true }).catch(() => {});
   }
 }
 
 async function handleThemeSelection(bot, chatId, userId, themeId, queryId) {
   try {
+    // Update streak when user views a fact
+    await updateStreak(userId);
     await incrementFactsViewed(userId);
 
     const fact = getRandomFactFromTheme(themeId);
@@ -90,12 +92,9 @@ async function handleSaveFact(bot, chatId, userId, themeId, factHash, queryId) {
     const { saveFact } = await import("../services/userService.js");
     const result = await saveFact(userId, themeId, factHash);
 
-    await bot.answerCallbackQuery(queryId, {
-      text: result.message,
-      show_alert: false,
-    }).catch(() => {
-      // Silently ignore if timed out
-    });
+    await bot
+      .answerCallbackQuery(queryId, { text: result.message, show_alert: false })
+      .catch(() => {});
 
     console.log(`💾 Fact saved for user ${userId}`);
   } catch (error) {
