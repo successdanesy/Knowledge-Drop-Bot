@@ -1,0 +1,17 @@
+services:
+  - type: worker
+    name: knowledge-drop-bot
+    env: node
+    region: oregon  # Choose: oregon, frankfurt, singapore, ohio
+    plan: starter   # Free tier
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: BOT_TOKEN
+        sync: false  # You'll add this in Render dashboard
+      - key: MONGODB_URI
+        sync: false  # You'll add this in Render dashboard
+      - key: ADMIN_IDS
+        sync: false  # Comma-separated Telegram user IDs

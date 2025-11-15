@@ -9,7 +9,6 @@ import { startNotificationScheduler } from "./services/notificationScheduler.js"
 import { shareFactAsCard } from "./handlers/shareCardHandler.js";
 import { analyticsHandler } from "./handlers/analyticsHandler.js";
 
-
 dotenv.config();
 
 const bot = new TelegramBot(process.env.BOT_TOKEN, { polling: true });
@@ -42,6 +41,14 @@ process.on("unhandledRejection", (reason, promise) => {
 });
 
 // ============================================
+// HEALTHCHECK - Keep service alive
+// ============================================
+setInterval(() => {
+  const used = process.memoryUsage();
+  console.log(`💚 Bot alive - Memory: ${Math.round(used.heapUsed / 1024 / 1024)}MB`);
+}, 5 * 60 * 1000); // Every 5 minutes
+
+// ============================================
 // COMMAND HANDLERS
 // ============================================
 bot.onText(/\/start/, (msg) => startHandler(bot, msg));
@@ -52,7 +59,6 @@ bot.onText(/\/share/, (msg) => shareFactAsCard(bot, msg.chat.id, msg.from.id));
 bot.onText(/\/analytics/, (msg) => analyticsHandler(bot, msg));
 bot.onText(/\/admin/, (msg) => analyticsHandler(bot, msg));
 
-
 bot.on("callback_query", (query) => callbackHandler(bot, query));
 
 // ============================================
@@ -60,6 +66,12 @@ bot.on("callback_query", (query) => callbackHandler(bot, query));
 // ============================================
 process.on("SIGINT", () => {
   console.log("\n🛑 Shutting down...");
+  process.exit(0);
+});
+
+process.on("SIGTERM", () => {
+  console.log("\n🛑 SIGTERM received, shutting down gracefully...");
+  bot.stopPolling();
   process.exit(0);
 });
 
