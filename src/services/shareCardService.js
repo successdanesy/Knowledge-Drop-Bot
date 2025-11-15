@@ -3,7 +3,8 @@ import { createCanvas, registerFont } from 'canvas';
 
 // Register custom fonts (add to project)
 try {
-  registerFont('./fonts/Poppins-Bold.ttf', { family: 'Poppins' });
+  registerFont('./fonts/Poppins-Bold.ttf', { family: 'Poppins', weight: 'bold' });
+  console.log('✅ Custom fonts loaded');
 } catch (e) {
   console.log('⚠️ Custom fonts not found, using defaults');
 }

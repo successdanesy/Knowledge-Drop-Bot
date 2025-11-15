@@ -7,6 +7,9 @@
     "start": "node src/bot.js",
     "dev": "node --watch src/bot.js"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
     "canvas": "^3.2.0",
     "dotenv": "^17.2.3",
