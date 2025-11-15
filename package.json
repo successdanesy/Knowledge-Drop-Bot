@@ -1,17 +1,15 @@
 {
   "type": "module",
   "name": "knowledge-drop-bot",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "2.0.0",
+  "main": "src/bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/bot.js",
+    "dev": "node --watch src/bot.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "dotenv": "^17.2.3",
-    "node-telegram-bot-api": "^0.66.0"
-  },
-  "description": ""
+    "node-telegram-bot-api": "^0.66.0",
+    "mongoose": "^8.0.0"
+  }
 }
