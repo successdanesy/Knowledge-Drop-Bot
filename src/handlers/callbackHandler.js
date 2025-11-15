@@ -7,6 +7,14 @@ import { getRandomFactFromTheme } from "../services/factService.js";
 import { formatFactMessage } from "../utils/formatters.js";
 import { updateStreakOnce } from "../services/streakService.js";
 import { handleNotificationPreferences, handleNotificationTime } from "./notificationHandler.js";
+import { handleLeaderboardRequest } from "./leaderboardHandler.js";
+import {
+  quizMenuHandler,
+  handleQuizThemeSelection,
+  startQuiz,
+  handleQuizAnswer,
+  showQuizStats,
+} from "./quizHandler.js";
 
 export async function callbackHandler(bot, query) {
   const chatId = query.message.chat.id;
@@ -29,9 +37,14 @@ export async function callbackHandler(bot, query) {
       } else if (actionType === "stats") {
         const { statsHandler } = await import("./startHandler.js");
         await statsHandler(bot, { chat: { id: chatId }, from: query.from });
+      } else if (actionType === "leaderboard") {
+        await handleLeaderboardRequest(bot, chatId, userId, "facts", "all_time");
       } else if (actionType === "notif_prefs") {
         await handleNotificationPreferences(bot, chatId, userId);
       }
+    } else if (action.startsWith("leaderboard:")) {
+      const [, metric, period] = action.split(":");
+      await handleLeaderboardRequest(bot, chatId, userId, metric, period);
     } else if (action.startsWith("notif:")) {
       const time = action.split(":")[1] + ":" + action.split(":")[2];
       await handleNotificationTime(bot, chatId, userId, time);
@@ -51,10 +64,7 @@ export async function callbackHandler(bot, query) {
 
 async function handleThemeSelection(bot, chatId, userId, themeId, queryId) {
   try {
-    // Update streak ONLY ONCE PER DAY (Option B)
     await updateStreakOnce(userId);
-    
-    // Always increment facts viewed (no limit)
     await incrementFactsViewed(userId);
 
     const fact = getRandomFactFromTheme(themeId);

@@ -1,12 +1,11 @@
 import TelegramBot from "node-telegram-bot-api";
 import dotenv from "dotenv";
 import { connectDB } from "./database/connection.js";
-import { startHandler } from "./handlers/startHandler.js";
+import { startHandler, statsHandler } from "./handlers/startHandler.js";
 import { callbackHandler } from "./handlers/callbackHandler.js";
 import { viewSavedHandler } from "./handlers/factHandler.js";
-import { statsHandler } from "./handlers/startHandler.js";
+import { leaderboardHandler } from "./handlers/leaderboardHandler.js";
 import { startNotificationScheduler } from "./services/notificationScheduler.js";
-
 
 dotenv.config();
 
@@ -45,6 +44,7 @@ process.on("unhandledRejection", (reason, promise) => {
 bot.onText(/\/start/, (msg) => startHandler(bot, msg));
 bot.onText(/\/saved/, (msg) => viewSavedHandler(bot, msg));
 bot.onText(/\/stats/, (msg) => statsHandler(bot, msg));
+bot.onText(/\/leaderboard/, (msg) => leaderboardHandler(bot, msg));
 
 bot.on("callback_query", (query) => callbackHandler(bot, query));
 

@@ -1,6 +1,5 @@
 import { getOrCreateUser, getUserStats } from "../services/userService.js";
 import { formatUserStats, formatBadges } from "../utils/formatters.js";
-import { handleNotificationPreferences } from "./notificationHandler.js";
 
 export async function startHandler(bot, msg) {
   try {
@@ -31,7 +30,13 @@ I'll share fascinating facts from around the world. Choose a theme or try random
             { text: "🔍 Origins", callback_data: "theme:origins" },
             { text: "🎲 Random Mix", callback_data: "theme:random_mix" },
           ],
-          [{ text: "⭐ My Saved Facts", callback_data: "action:view_saved" }],
+          [
+            { text: "⭐ Saved", callback_data: "action:view_saved" },
+            { text: "🏆 Leaderboard", callback_data: "action:leaderboard" },
+          ],
+          [
+            { text: "📊 Stats", callback_data: "action:stats" },
+          ],
           [{ text: "🔔 Notifications", callback_data: "action:notif_prefs" }],
         ],
       },
