@@ -3,10 +3,11 @@ app = "knowledge-drop-bot"
 primary_region = "lhr"  # London - change to closest region
 
 [build]
-  builder = "heroku/buildpacks:20"
+  # Use Dockerfile instead of buildpacks
 
 [env]
   NODE_ENV = "production"
+  PORT = "8080"
 
 [http_service]
   internal_port = 8080
