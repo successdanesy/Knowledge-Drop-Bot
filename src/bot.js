@@ -11,6 +11,35 @@ import { analyticsHandler } from "./handlers/analyticsHandler.js";
 
 dotenv.config();
 
+import http from "http";
+
+// ============================================
+// HEALTH CHECK SERVER (for Fly.io)
+// ============================================
+const server = http.createServer((req, res) => {
+  if (req.url === '/health') {
+    res.writeHead(200, { 'Content-Type': 'text/plain' });
+    res.end('Bot is alive! 🤖');
+  } else {
+    const stats = {
+      status: 'running',
+      uptime: Math.floor(process.uptime()),
+      memory: {
+        used: Math.round(process.memoryUsage().heapUsed / 1024 / 1024) + 'MB',
+        total: Math.round(process.memoryUsage().heapTotal / 1024 / 1024) + 'MB'
+      },
+      timestamp: new Date().toISOString()
+    };
+    res.writeHead(200, { 'Content-Type': 'application/json' });
+    res.end(JSON.stringify(stats, null, 2));
+  }
+});
+
+const PORT = process.env.PORT || 8080;
+server.listen(PORT, () => {
+  console.log(`🌐 Health server running on port ${PORT}`);
+});
+
 const bot = new TelegramBot(process.env.BOT_TOKEN, { polling: true });
 
 // Connect to MongoDB Atlas
