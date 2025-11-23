@@ -6,7 +6,7 @@ import { callbackHandler } from "./handlers/callbackHandler.js";
 import { viewSavedHandler } from "./handlers/factHandler.js";
 import { leaderboardHandler } from "./handlers/leaderboardHandler.js";
 import { startNotificationScheduler } from "./services/notificationScheduler.js";
-import { shareFactAsCard } from "./handlers/shareCardHandler.js";
+// import { shareFactAsCard } from "./handlers/shareCardHandler.js";
 import { analyticsHandler } from "./handlers/analyticsHandler.js";
 
 dotenv.config();
@@ -84,7 +84,7 @@ bot.onText(/\/start/, (msg) => startHandler(bot, msg));
 bot.onText(/\/saved/, (msg) => viewSavedHandler(bot, msg));
 bot.onText(/\/stats/, (msg) => statsHandler(bot, msg));
 bot.onText(/\/leaderboard/, (msg) => leaderboardHandler(bot, msg));
-bot.onText(/\/share/, (msg) => shareFactAsCard(bot, msg.chat.id, msg.from.id));
+// bot.onText(/\/share/, (msg) => shareFactAsCard(bot, msg.chat.id, msg.from.id));
 bot.onText(/\/analytics/, (msg) => analyticsHandler(bot, msg));
 bot.onText(/\/admin/, (msg) => analyticsHandler(bot, msg));
 
